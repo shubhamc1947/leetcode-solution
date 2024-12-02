@@ -19,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shubhamc1947/leetcode-solution/tree/master/0547-number-of-provinces) |
+| [1916-find-center-of-star-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
