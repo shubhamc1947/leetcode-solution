@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
