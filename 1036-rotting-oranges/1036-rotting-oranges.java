@@ -1,8 +1,8 @@
 class Solution {
-    public class Pair{
+    class Pair{
         int x;
         int y;
-        public Pair(int x,int y){
+        public Pair(int x, int y){
             this.x=x;
             this.y=y;
         }
@@ -10,63 +10,57 @@ class Solution {
     public int orangesRotting(int[][] arr) {
         int n=arr.length;
         int m=arr[0].length;
-        Queue<Pair> que=new LinkedList<>();
         int vis[][]=new int[n][m];
-        int freshFruit=0;
-        //cloning total grid
+        Queue<Pair> que=new LinkedList<>();
+        int freshCount=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                vis[i][j]=arr[i][j];
-                if(arr[i][j]==1){
-                    freshFruit++;
-                }
                 if(arr[i][j]==2){
                     que.add(new Pair(i,j));
+                    vis[i][j]=1;
                 }
+                if(arr[i][j]==1){
+                    freshCount++;
+                }
+
             }
         }
-        //if none fresh orange , then no time
-        if(freshFruit==0){
+        if(freshCount==0){
             return 0;
         }
-        //if none rotton orange then not possible
         if(que.isEmpty()){
             return -1;
         }
-
-        int xRep[]={-1,0,0,1};
-        int yRep[]={0,-1,1,0};
+        int timer=-1;
         
-        int freq=-1;
+        // System.out.println(freshCount+" fresh count");
         while(!que.isEmpty()){
-            int currSize=que.size();
-            // System.out.println(currSize+"current size");
+            timer++;
+            // System.out.println(que.size()+"-----------");
+            // if(que.size()==1){
+            //     System.out.println(que.peek().x+"--------"+que.peek().y+"---------");
+            // }
+            int size=que.size();
+            for(int z=1;z<=size;z++){
+                Pair curr=que.remove();
+                int currX=curr.x;
+                int currY=curr.y;
+                int xCor[]={-1,0,0,1};
+                int yCor[]={0,1,-1,0};
 
-            for(int i=0;i<currSize;i++){
-                Pair currNode=que.remove();
-                int x=currNode.x;
-                int y=currNode.y;
-
-                for(int j=0;j<4;j++){
-                    int nextX=x+xRep[j];
-                    int nextY=y+yRep[j];
-
-                    if(nextX>=0 && nextY>=0 && nextX<n && nextY<m && vis[nextX][nextY]==1 ){
-                        vis[nextX][nextY]=2;
-                        freshFruit--;
+                for(int p=0;p<4;p++){
+                    int nextX=xCor[p]+currX;
+                    int nextY=yCor[p]+currY;
+                    if(nextX>=0 && nextY>=0 && nextX<n && nextY<m && arr[nextX][nextY]==1 && vis[nextX][nextY]==0){
+                        // System.out.println(arr[nextX][nextY]+"--------"+nextX+"-----"+nextY);
+                        vis[nextX][nextY]=1;
                         que.add(new Pair(nextX,nextY));
+                        freshCount--;
                     }
                 }
             }
-            freq++;
-
         }
-
-        return freshFruit==0?freq:-1;
-
-
+        
+        return freshCount==0?timer:-1;
     }
 }
-
-
-
