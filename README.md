@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/shubhamc1947/leetcode-solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
