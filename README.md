@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
