@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
