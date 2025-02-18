@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/shubhamc1947/leetcode-solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Sorting
