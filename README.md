@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhamc1947/leetcode-solution/tree/master/0207-course-schedule) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
+| [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
