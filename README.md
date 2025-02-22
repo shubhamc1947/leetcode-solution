@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 ## String
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
