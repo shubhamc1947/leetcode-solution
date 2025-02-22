@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0605-can-place-flowers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
