@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
