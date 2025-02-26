@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
