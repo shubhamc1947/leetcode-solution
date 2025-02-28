@@ -367,12 +367,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shubhamc1947/leetcode-solution/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -380,5 +382,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
