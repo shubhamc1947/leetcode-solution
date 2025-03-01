@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shubhamc1947/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/shubhamc1947/leetcode-solution/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
