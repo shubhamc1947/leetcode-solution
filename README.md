@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shubhamc1947/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 ## Matrix
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
+| [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
