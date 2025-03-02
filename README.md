@@ -293,12 +293,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
@@ -404,6 +406,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
