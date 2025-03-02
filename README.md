@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shubhamc1947/leetcode-solution/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shubhamc1947/leetcode-solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0904-leaf-similar-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
+| [0904-leaf-similar-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
+| [0904-leaf-similar-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
