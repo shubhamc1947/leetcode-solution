@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
