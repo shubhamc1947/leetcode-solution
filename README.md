@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/shubhamc1947/leetcode-solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
