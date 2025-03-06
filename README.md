@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shubhamc1947/leetcode-solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/shubhamc1947/leetcode-solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1250-longest-common-subsequence) |
