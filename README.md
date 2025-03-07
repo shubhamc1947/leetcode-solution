@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shubhamc1947/leetcode-solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
