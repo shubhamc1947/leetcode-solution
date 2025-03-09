@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3483-alternating-groups-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
