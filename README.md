@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shubhamc1947/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhamc1947/leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3483-alternating-groups-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3483-alternating-groups-ii) |
