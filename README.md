@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
