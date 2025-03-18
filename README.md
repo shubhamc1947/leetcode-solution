@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
+| [2478-longest-nice-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2478-longest-nice-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shubhamc1947/leetcode-solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/2478-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
