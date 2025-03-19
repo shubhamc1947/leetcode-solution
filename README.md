@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/shubhamc1947/leetcode-solution/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhamc1947/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shubhamc1947/leetcode-solution/tree/master/0724-find-pivot-index) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shubhamc1947/leetcode-solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/2478-longest-nice-subarray) |
