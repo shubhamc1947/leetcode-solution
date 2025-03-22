@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/shubhamc1947/leetcode-solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
