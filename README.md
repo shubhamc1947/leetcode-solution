@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shubhamc1947/leetcode-solution/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shubhamc1947/leetcode-solution/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
