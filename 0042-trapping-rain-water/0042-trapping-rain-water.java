@@ -1,25 +1,22 @@
 class Solution {
     public int trap(int[] arr) {
         int n=arr.length;
-        int lnm[]=new int[n];
-        int rnm[]=new int[n];
-        int maxi=Integer.MIN_VALUE;
-        for(int i=0;i<n;i++){
-            if(arr[i]>maxi) maxi=arr[i];
-
-            lnm[i]=maxi;
-        }
-
-        maxi=Integer.MIN_VALUE;
-        for(int i=n-1;i>=0;i--){
-            if(arr[i]>maxi) maxi=arr[i];
-
-            rnm[i]=maxi;
-        }
+        int maxLeft=arr[0];
+        int maxiRight=arr[n-1];
+        int si=0,ei=n-1;
         int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=Math.min(lnm[i],rnm[i])-arr[i];
+        while(si<=ei){
+            if(arr[si]<arr[ei]){
+                //left side 
+                maxLeft=Math.max(maxLeft,arr[si]);
+                sum+=maxLeft-arr[si];
+                si++;
+            }else{
+                maxiRight=Math.max(maxiRight,arr[ei]);
+                sum+=maxiRight-arr[ei];
+                ei--;
+            }
         }
-        return sum;
+        return  sum;
     }
 }
