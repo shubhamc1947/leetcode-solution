@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shubhamc1947/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shubhamc1947/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhamc1947/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubhamc1947/leetcode-solution/tree/master/0062-unique-paths) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 ## Trie
