@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/shubhamc1947/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamc1947/leetcode-solution/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamc1947/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/shubhamc1947/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamc1947/leetcode-solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shubhamc1947/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shubhamc1947/leetcode-solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
