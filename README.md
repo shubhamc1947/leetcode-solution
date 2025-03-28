@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shubhamc1947/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shubhamc1947/leetcode-solution/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhamc1947/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shubhamc1947/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
