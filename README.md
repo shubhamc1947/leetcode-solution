@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shubhamc1947/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shubhamc1947/leetcode-solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamc1947/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamc1947/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shubhamc1947/leetcode-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
