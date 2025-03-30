@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shubhamc1947/leetcode-solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shubhamc1947/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0205-isomorphic-strings) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
