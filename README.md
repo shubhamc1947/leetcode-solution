@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
