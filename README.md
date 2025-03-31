@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shubhamc1947/leetcode-solution/tree/master/0399-evaluate-division) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamc1947/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/shubhamc1947/leetcode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shubhamc1947/leetcode-solution/tree/master/0135-candy) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shubhamc1947/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
