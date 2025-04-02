@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhamc1947/leetcode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhamc1947/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhamc1947/leetcode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/shubhamc1947/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhamc1947/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhamc1947/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0437-path-sum-iii) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhamc1947/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhamc1947/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0437-path-sum-iii) |
