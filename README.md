@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0205-isomorphic-strings) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shubhamc1947/leetcode-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -860,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
