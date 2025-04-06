@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0216-combination-sum-iii) |
