@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamc1947/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shubhamc1947/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -928,4 +931,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
