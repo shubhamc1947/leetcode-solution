@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shubhamc1947/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhamc1947/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
