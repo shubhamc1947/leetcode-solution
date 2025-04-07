@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shubhamc1947/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shubhamc1947/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubhamc1947/leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shubhamc1947/leetcode-solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shubhamc1947/leetcode-solution/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shubhamc1947/leetcode-solution/tree/master/0072-edit-distance) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shubhamc1947/leetcode-solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shubhamc1947/leetcode-solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/shubhamc1947/leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamc1947/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shubhamc1947/leetcode-solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shubhamc1947/leetcode-solution/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shubhamc1947/leetcode-solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/0201-bitwise-and-of-numbers-range) |
