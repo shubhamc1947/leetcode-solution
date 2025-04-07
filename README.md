@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
