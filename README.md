@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhamc1947/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
