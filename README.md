@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/shubhamc1947/leetcode-solution/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/shubhamc1947/leetcode-solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1250-longest-common-subsequence) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/shubhamc1947/leetcode-solution/tree/master/0649-dota2-senate) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1052,4 +1056,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0148-sort-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
