@@ -1,18 +1,20 @@
 class Solution {
-    private int rec(int r,int c,int m,int n,int[][] grid,int dp[][])
-    {
-        if(r==m && c==n) return grid[r][c];
-        if(dp[r][c]!=-1) return dp[r][c];
-        int right = Integer.MAX_VALUE, down = Integer.MAX_VALUE;
-        if(c+1<=n) right = rec(r,c+1,m,n,grid,dp);
-        if(r+1<=m) down = rec(r+1,c,m,n,grid,dp);
-        return dp[r][c] = grid[r][c] + Math.min(right,down);
-    }
-    public int minPathSum(int[][] grid) {
-        int m= grid.length,n=grid[0].length;
-        int[][] dp = new int[m][n];
-        for(int[] row: dp) Arrays.fill(row,-1);
+    public int f(int arr[][],int i,int j,int dp[][]){
+        if(i==0 && j==0) return arr[0][0];
+        if(i<0 || j<0 ) return (int)1e9;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int top=f(arr,i-1,j,dp)+arr[i][j];
+        int left=f(arr,i,j-1,dp)+arr[i][j];
 
-        return rec(0,0,m-1,n-1,grid,dp);
+        return dp[i][j]= Math.min(top,left);
+    }
+    public int minPathSum(int[][] arr) {
+        int n=arr.length;
+        int m=arr[0].length;
+        int dp[][]=new int[n][m];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
+        }
+        return f(arr,n-1,m-1,dp);
     }
 }
