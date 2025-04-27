@@ -4,20 +4,22 @@ class Solution {
         int n=arr.size();
         int m=arr.get(n-1).size();
 
-        int dp[][]=new int[n][m];
+        int dp[]=new int[m];
         
         //base case
         for(int j=0;j<m;j++){
-            dp[n-1][j]=arr.get(n-1).get(j);
+            dp[j]=arr.get(n-1).get(j);
         }
 
         for(int i=n-2;i>=0;i--){
+            int curr[]=new int[i+1];
             for(int j=i;j>=0;j--){
-                int bottom=dp[i+1][j]+arr.get(i).get(j);
-                int dia=dp[i+1][j+1]+arr.get(i).get(j);
-                dp[i][j]=Math.min(bottom,dia);
+                int bottom=dp[j]+arr.get(i).get(j);
+                int dia=dp[j+1]+arr.get(i).get(j);
+                curr[j]=Math.min(bottom,dia);
             }
+            dp=curr;
         }
-        return dp[0][0];
+        return dp[0];
     }
 }
