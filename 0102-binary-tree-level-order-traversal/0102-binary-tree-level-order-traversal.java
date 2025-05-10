@@ -14,36 +14,29 @@
  * }
  */
 class Solution {
-    public static class Pair{
-        TreeNode node;
-        int level;
-        public Pair(TreeNode node,int level){
-            this.node=node;
-            this.level=level;
-        }
-    }
-    static int levels(TreeNode root){
-        if(root==null)return 0;
-        return 1+Math.max(levels(root.left),levels(root.right));
-    }
-    static void BFS(TreeNode root,List<List<Integer>>list){
-        Queue<Pair>queue=new ArrayDeque<>();
-        if(root!=null)queue.add(new Pair(root,0));
-        while(!queue.isEmpty()){
-            Pair front=queue.remove();
-            list.get(front.level).add(front.node.val);
-            if(front.node.left!=null)queue.add(new Pair(front.node.left,front.level+1));
-            if(front.node.right!=null)queue.add(new Pair(front.node.right,front.level+1));
-        }
-    }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>>list=new ArrayList<>();
-        int level=levels(root);
-        for(int i=0;i<level;i++){
-            List<Integer>lst=new ArrayList<>();
-            list.add(lst);
+        if(root==null){
+            return new ArrayList<>();
         }
-        BFS(root,list);
-        return list;
+        List<List<Integer>> ans=new ArrayList<>();
+        Queue<TreeNode> que=new LinkedList<>();
+        que.add(root);
+        while(!que.isEmpty()){
+            ArrayList<Integer> level=new ArrayList<>();
+            int currSize=que.size();
+            for(int i=0;i<currSize;i++){
+                TreeNode curr=que.remove();
+                level.add(curr.val);
+                if(curr.left!=null){
+                    que.add(curr.left);
+                }
+                if(curr.right!=null){
+                    que.add(curr.right);
+                }
+            }
+            ans.add(level);
+        }
+        return ans;
+
     }
 }
