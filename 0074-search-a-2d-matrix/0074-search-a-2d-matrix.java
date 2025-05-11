@@ -1,26 +1,14 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
-        // Handle empty matrix case
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
-            return false;
-        }
-        
-        int rows = matrix.length;
-        int cols = matrix[0].length;
-        int left = 0;
-        int right = rows * cols - 1;
-        
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            // Convert 1D index to 2D coordinates
-            int midValue = matrix[mid / cols][mid % cols];
-            
-            if (midValue == target) {
+    public boolean searchMatrix(int[][] arr, int tar) {
+        int n=arr.length,m=arr[0].length;
+        int si=0,ei=m-1;
+        while(si<n && ei>=0){
+            if(arr[si][ei]==tar){
                 return true;
-            } else if (midValue < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+            }else if(arr[si][ei]<tar){
+                si++;
+            }else {
+                ei--;
             }
         }
         return false;
