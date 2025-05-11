@@ -1,13 +1,16 @@
 class Solution {
-    public int maxSubArray(int[] nums) {
-        int currSum=0,maxi=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            currSum+=nums[i];
-            maxi=Math.max(maxi,currSum);
-            if(currSum<0){
-                currSum=0;
+    public int maxSubArray(int[] arr) {
+        int ans=Integer.MIN_VALUE;
+        int curr=0;
+        for(int i=0;i<arr.length;i++){
+            curr+=arr[i];
+            if(ans<curr){
+                ans=curr;
+            }
+            if(curr<0){
+                curr=0;
             }
         }
-        return maxi;
+        return ans;
     }
 }
