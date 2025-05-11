@@ -1,19 +1,18 @@
 class Solution {
-    public int majorityElement(int[] nums) {
-        int ans=nums[0];
+    public int majorityElement(int[] arr) {
+        int curr=arr[0];
         int freq=1;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]==ans){
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]==curr){
                 freq++;
             }else{
                 freq--;
                 if(freq==0){
-                    ans=nums[i];
-                    freq++;
-                    // System.out.println(nums[i]);
+                    curr=arr[i];
+                    freq=1;
                 }
             }
         }
-        return ans;
+        return curr;
     }
 }
