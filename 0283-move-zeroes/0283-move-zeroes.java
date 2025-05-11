@@ -1,18 +1,16 @@
 class Solution {
     public void moveZeroes(int[] arr) {
-        int si=-1;
+        int zeroIdx=-1;
         for(int i=0;i<arr.length;i++){
-
-            if(arr[i]==0 && si==-1){
-                si=i;
-                
-            }
-            if(arr[i]!=0 && si!=-1){
-                //swap
-                int temp=arr[si];
-                arr[si]=arr[i];
-                arr[i]=temp;
-                si++;
+            if(arr[i]!=0 ){
+                if(zeroIdx !=-1){
+                    arr[zeroIdx]=arr[i];
+                    arr[i]=0;
+                    zeroIdx++;
+                }
+               
+            }else if(zeroIdx==-1){
+                zeroIdx=i;
             }
         }
     }
