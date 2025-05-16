@@ -1,30 +1,19 @@
 class Solution {
-    public int f(int n,int m,int dp[][]){
-        if(n==1 && m==1){
-            return 1;
-        }else if(n==2 && m==2){
-            return 2;
-        }
-        if(dp[n][m]!=-1){
-            return dp[n][m];
-        }
-        int top=0;
-        int left=0;
-        if(n-1>=0){
-            top=f(n-1,m,dp);
-        }
-        if(m-1>=0){
-            left=f(n,m-1,dp);
-        }
-        return dp[n][m]=top+left;
+    public int func(int i,int j,int dp[][]){
+        if(i==0 && j==0) return 1;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int left=0,top=0;
+        if(i-1>=0) top=func(i-1,j,dp);
+        if(j-1>=0) left=func(i,j-1,dp);
+
+        return dp[i][j]= left+top;
     }
-    public int uniquePaths(int m, int n) {
-        int dp[][]=new int[m+1][n+1];
-        for(int i=0;i<m+1;i++){
-            for(int j=0;j<n+1;j++){
-                dp[i][j]=-1;
-            }
+    public int uniquePaths(int n, int m) {
+        int dp[][]=new int[n][m];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
         }
-        return f(m,n,dp);
+
+        return func(n-1,m-1,dp);
     }
 }
