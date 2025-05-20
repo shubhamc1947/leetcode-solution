@@ -1,7 +1,7 @@
 class Solution {
     public boolean func(int arr[],int i,int tar,int dp[][]){
         if(tar==0) return true;
-        if(i==0) return arr[0]==tar;
+        if(i<0) return false;
         if(dp[i][tar]!=-1) return dp[i][tar]==1;
         boolean notTake=func(arr,i-1,tar,dp);
         boolean take=false;
