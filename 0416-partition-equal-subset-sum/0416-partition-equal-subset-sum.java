@@ -1,34 +1,32 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
-        // Calculate sum of the array
-        int sum = 0;
-        for (int num : nums) {
-            sum += num;
+    public boolean func(int arr[],int i,int tar,int dp[][]){
+        if(tar==0) return true;
+        if(i==0) return arr[0]==tar;
+        if(dp[i][tar]!=-1) return dp[i][tar]==1;
+        boolean notTake=func(arr,i-1,tar,dp);
+        boolean take=false;
+        if(tar>=arr[i]){
+            take=func(arr,i-1,tar-arr[i],dp);
         }
-        
-        // If sum is odd, we cannot partition into two equal subsets
-        if (sum % 2 != 0) {
+
+        dp[i][tar]= take|| notTake?1:0;
+        return take||notTake;
+
+    }
+    public boolean canPartition(int[] arr) {
+        int totalSum=0;
+        int n=arr.length;
+        for(int i=0;i<n;i++){
+            totalSum+=arr[i];
+        }
+        if(totalSum%2!=0){
             return false;
         }
-        
-        int target = sum / 2;
-        
-        // Create a DP array where dp[i] indicates if sum i can be achieved
-        boolean[] dp = new boolean[target + 1];
-        
-        // Base case: we can always achieve sum of 0
-        dp[0] = true;
-        
-        // For each number, update the dp array
-        for (int num : nums) {
-            // Iterate backwards to avoid using the same element multiple times
-            for (int i = target; i >= num; i--) {
-                // If we can achieve sum (i - num), then we can achieve sum i by adding num
-                dp[i] = dp[i] || dp[i - num];
-            }
+        int tar=totalSum/2;
+        int dp[][]=new int[n][tar+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
         }
-        
-        // Return if we can achieve the target sum
-        return dp[target];
+        return func(arr,n-1,tar,dp);
     }
 }
