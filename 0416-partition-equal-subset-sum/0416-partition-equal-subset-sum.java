@@ -1,18 +1,5 @@
 class Solution {
-    public boolean func(int arr[],int i,int tar,int dp[][]){
-        if(tar==0) return true;
-        if(i==0) return arr[i]==tar;
 
-        if(dp[i][tar]!=-1) return dp[i][tar]==1;
-        boolean notTake=func(arr,i-1,tar,dp);
-        boolean take=false;
-        if(tar>=arr[i]){
-
-            take=func(arr,i-1,tar-arr[i],dp);
-        }
-        dp[i][tar]=take||notTake?1:0;
-        return take||notTake;
-    }
     public boolean canPartition(int[] arr) {
         int n=arr.length;
 
@@ -27,11 +14,27 @@ class Solution {
 
         int target=totSum/2;
         int dp[][]=new int[n][target+1];
+
+
         for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+            dp[i][0]=1;
+        }
+        if(target>=arr[0]){
+            dp[0][arr[0]]=1;
+        }
+        
+        for(int i=1;i<n;i++){
+            for(int tar=1;tar<target+1;tar++){
+            boolean notTake=dp[i-1][tar]==1;
+            boolean take=false;
+            if(tar>=arr[i]){
+
+                take=dp[i-1][tar-arr[i]]==1;
+            }
+                dp[i][tar]=take||notTake?1:0;
+            }
         }
 
-        return func(arr,n-1,target,dp);
-
+        return dp[n-1][target]==1;
     }
 }
