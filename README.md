@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shubhamc1947/leetcode-solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shubhamc1947/leetcode-solution/tree/master/0139-word-break) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shubhamc1947/leetcode-solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/shubhamc1947/leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0120-triangle) |
