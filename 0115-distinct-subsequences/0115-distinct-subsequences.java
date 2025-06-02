@@ -3,26 +3,28 @@ class Solution {
     public int numDistinct(String s, String t) {
         int n=s.length();
         int m=t.length();
-        int dp[][]=new int[n+1][m+1];
-        for(int i=0;i<=n;i++){
-            dp[i][0]=1;
-        }
-        for(int j=1;j<=m;j++){
-            dp[0][j]=0;
-        }
+        int prev[]=new int[m+1];        
+        prev[0]=1;
+        //default zero so no need 
+        // for(int j=1;j<=m;j++){
+        //     dp[0][j]=0;
+        // }
         for(int i=1;i<=n;i++){
+            int curr[]=new int[m+1];
+            curr[0] = 1;// base case 
             for(int j=1;j<=m;j++){
                 if(s.charAt(i-1)==t.charAt(j-1)){
                     //
-                    int take=dp[i-1][j-1];//take the current char from s
-                    int notTake=dp[i-1][j];//dont take the current char from s
-                    dp[i][j]= take+notTake;
+                    int take=prev[j-1];//take the current char from s
+                    int notTake=prev[j];//dont take the current char from s
+                    curr[j]= take+notTake;
                 }else{
                     // don't Take
-                    dp[i][j]=dp[i-1][j];
+                    curr[j]=prev[j];
                 }
             }
+            prev=curr;
         }
-        return dp[n][m];
+        return prev[m];
     }
 }
