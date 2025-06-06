@@ -4,43 +4,41 @@ class Solution {
         //assuming s1 will contains * and ? 
         int n=s1.length();
         int m=s2.length();
-        boolean dp[][]=new boolean[n+1][m+1];
+        boolean prev[]=new boolean[m+1];
         
-        dp[0][0]=true;
-        for(int j=1;j<=m;j++){
-            dp[0][j]=false;
-        }
+        prev[0]=true;
+        // for(int j=1;j<=m;j++){ // not needed
+        //     prev[j]=false;
+        // }
+
         for(int i=1;i<=n;i++){
-            boolean flag=false;
+            boolean curr[]=new boolean[m+1];
+            boolean flag=true;
             for(int x=1;x<=i;x++){
                 if(s1.charAt(x-1)!='*'){
-                     flag=true;
+                     flag=false;
                      break;
                 }
             }
-            if(!flag){
-                dp[i][0]=true;
-            }
-        }
-
-        for(int i=1;i<=n;i++){
+            curr[0]=flag;
             for(int j=1;j<=m;j++){
                 if(s1.charAt(i-1)==s2.charAt(j-1) || s1.charAt(i-1)=='?'){
-                    dp[i][j] = dp[i-1][j-1];
+                    curr[j] = prev[j-1];
                 }else{
                     if(s1.charAt(i-1)=='*'){
                         //take * as ""
-                        boolean notTake=dp[i-1][j];
+                        boolean notTake=prev[j];
                         // take * as curr char (but * can be another as well so taking j-1 only)
-                        boolean take=dp[i][j-1];
-                        dp[i][j] = take || notTake?true:false;
+                        boolean take=curr[j-1];
+                        curr[j] = take || notTake?true:false;
                     }else{
-                        dp[i][j] = false;
+                        curr[j] = false;
                     }
                 }
             }
+            prev=curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 }
