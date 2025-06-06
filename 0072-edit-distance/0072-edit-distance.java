@@ -1,29 +1,34 @@
 class Solution {
-    public int func(int i,int j,String s1, String s2, int dp[][]){
-        if(i==0) return j;
-        if(j==0) return i;
-        //match
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s1.charAt(i-1)==s2.charAt(j-1)){
-            //match
-            return dp[i][j]= func(i-1,j-1,s1,s2,dp);
-        }else{
-            // insert
-            int insert=1+func(i,j-1,s1,s2,dp);
-            //delete
-            int delete=1+func(i-1,j,s1,s2,dp);
-            //replace
-            int replace=1+func(i-1,j-1,s1,s2,dp);
-            return dp[i][j]= Math.min(insert,Math.min(delete,replace));
-        }
-    }
+    
     public int minDistance(String s1, String s2) {
         int n=s1.length();
         int m=s2.length();
         int dp[][]=new int[n+1][m+1];
+        
         for(int i=0;i<=n;i++){
-            Arrays.fill(dp[i],-1);
+            dp[i][0]=i;
         }
-        return func(n,m,s1,s2,dp);
+        for(int j=0;j<=m;j++){
+            dp[0][j]=j;
+        }
+
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s1.charAt(i-1)==s2.charAt(j-1)){
+                    //match
+                    dp[i][j]= 0 + dp[i-1][j-1];
+                }else{
+                    // insert
+                    int insert=1+dp[i][j-1];
+                    //delete
+                    int delete=1+dp[i-1][j];
+                    //replace
+                    int replace=1+dp[i-1][j-1];
+                    dp[i][j]= Math.min(insert,Math.min(delete,replace));
+                }
+            }
+        }
+
+        return dp[n][m];
     }
 }
