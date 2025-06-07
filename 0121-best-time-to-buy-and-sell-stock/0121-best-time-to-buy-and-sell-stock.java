@@ -1,14 +1,11 @@
 class Solution {
     public int maxProfit(int[] arr) {
-        int max = 0;
-        for (int left = 0, right = 1; right < arr.length; right++) {
-            if (arr[left] <= arr[right]) {
-                max = Math.max(arr[right] - arr[left], max);
-            } else {
-                left = right;
-            }
+        int buy=arr[0];
+        int profit=Integer.MIN_VALUE;
+        for(int i=1;i<arr.length;i++){
+            profit=Math.max(profit, arr[i]-buy);
+            buy=Math.min(buy,arr[i]);
         }
-        return max;
-
+        return profit<0?0:profit;
     }
 }
