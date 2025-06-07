@@ -2,26 +2,27 @@ class Solution {
     
     public int maxProfit(int[] arr) {
         int n=arr.length;
-        int dp[][]=new int[n+1][2];// one extra for base case 
-
+        int prev[]=new int[2];// one extra for base case 
         //base case 
-        dp[n][0]=dp[n][1]=0;//no need by default but added
+        prev[0]=prev[1]=0;//no need by default but added
         for(int idx=n-1;idx>=0;idx--){
+            int curr[]=new int[2];
             for(int j=0;j<2;j++){
                 if(j==1){
                     //either sell here 
-                    int currSell=arr[idx]+dp[idx+1][0];
+                    int currSell=arr[idx]+prev[0];
                     // or don't sell here
-                    int notSell=dp[idx+1][1];
-                    dp[idx][j]= Math.max(currSell,notSell);
+                    int notSell=prev[1];
+                    curr[j]= Math.max(currSell,notSell);
                 }else{// buy==0
                     // either buy here
-                    int currBuy=-arr[idx]+dp[idx+1][1];
-                    int notBuy=dp[idx+1][0];
-                    dp[idx][j]= Math.max(currBuy,notBuy);
+                    int currBuy=-arr[idx]+prev[1];
+                    int notBuy=prev[0];
+                    curr[j]= Math.max(currBuy,notBuy);
                 }
             }
+            prev=curr;
         }
-        return dp[0][0];
+        return prev[0];
     }
 }
