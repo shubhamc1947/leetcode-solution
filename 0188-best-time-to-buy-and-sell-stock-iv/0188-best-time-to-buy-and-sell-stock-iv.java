@@ -14,12 +14,23 @@ class Solution {
     }
     public int maxProfit(int k, int[] arr) {
         int n=arr.length;
-        int dp[][][]=new int[n][2][k+1];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<2;j++){
-                Arrays.fill(dp[i][j],-1);
+        int dp[][][]=new int[n+1][2][k+1];
+        for(int idx=n-1;idx>=0;idx--){
+            for(int buy=0;buy<2;buy++){
+                for(int cap=k;cap>0;cap--){
+                    if(buy==1){//we can sell
+                        int currSell=arr[idx]+dp[idx+1][0][cap-1];
+                        int notSell=0+ dp[idx+1][1][cap];
+                        dp[idx][buy][cap]= Math.max(currSell,notSell);
+                    }else{//buy =0
+                        // System.out.println(cap);
+                        int currBuy=-arr[idx]+dp[idx+1][1][cap];
+                        int notBuy =dp[idx+1][0][cap];
+                        dp[idx][buy][cap]= Math.max(currBuy,notBuy);
+                    }
+                }
             }
         }
-        return func(arr,0,0,k,n,dp);
+        return dp[0][0][k];
     }
 }
