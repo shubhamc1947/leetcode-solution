@@ -1,28 +1,24 @@
 class Solution {
-    public int func(int arr[],int fee,int idx,int n,int buy,int dp[][]){
-        if(idx==n){
-            return 0;
-        }
-        if(dp[idx][buy]!=-1) return dp[idx][buy];
-        if(buy==1){
-            //sell
-            int currSell=arr[idx]-fee+func(arr,fee,idx+1,n,0,dp);
-            int notSell=func(arr,fee,idx+1,n,1,dp);
-            return dp[idx][buy] = Math.max(currSell,notSell);
-        }else{//0
-            //buy
-            int currBuy=-arr[idx]+func(arr,fee,idx+1,n,1,dp);
-            int notBuy=func(arr,fee,idx+1,n,0,dp);
-            return dp[idx][buy] = Math.max(currBuy,notBuy);
-        }
-    }
     public int maxProfit(int[] arr, int fee) {
         int n=arr.length;
 
-        int dp[][]=new int[n][2];
-        for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+        int dp[][]=new int[n+1][2];
+        
+        for(int idx=n-1;idx>=0;idx--){
+            for(int buy=0;buy<=1;buy++){
+                if(buy==1){
+                    //sell
+                    int currSell=arr[idx]-fee+ dp[idx+1][0];
+                    int notSell= dp[idx+1][1];
+                    dp[idx][buy] = Math.max(currSell,notSell);
+                }else{//0
+                    //buy
+                    int currBuy=-arr[idx]+ dp[idx+1][1];
+                    int notBuy=dp[idx+1][0];
+                    dp[idx][buy] = Math.max(currBuy,notBuy);
+                }
+            }
         }
-        return func(arr,fee,0,arr.length,0,dp);
+        return dp[0][0];
     }
 }
