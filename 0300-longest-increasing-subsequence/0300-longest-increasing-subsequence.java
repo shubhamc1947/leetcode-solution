@@ -1,22 +1,22 @@
-public class Solution {
-    public int lengthOfLIS(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 0;
+class Solution {
+    public int func(int arr[],int idx,int prev,int n,int dp[][]){
+        if(idx==n) return 0;
+        if(dp[idx][prev+1]!=-1)return dp[idx][prev+1];
+        //not take
+        int notTake=0+func(arr,idx+1,prev,n,dp);
+        //take
+        int take=0;
+        if(prev==-1 || arr[idx]>arr[prev]){
+            take=1+func(arr,idx+1,idx,n,dp);
         }
-
-        int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, 1);
-
-        for (int i = 1; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (nums[i] > nums[j]) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                }
-            }
+        return dp[idx][prev+1]= Math.max(take,notTake);
+    }
+    public int lengthOfLIS(int[] arr) {
+        int n=arr.length;
+        int dp[][]=new int[n][n+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
         }
-
-        int maxLength = Arrays.stream(dp).max().orElse(0);
-        return maxLength;
+        return func(arr,0,-1,n,dp);
     }
 }
