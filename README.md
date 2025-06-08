@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhamc1947/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/shubhamc1947/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shubhamc1947/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 ## Ordered Set
 |  |
