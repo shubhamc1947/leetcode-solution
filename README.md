@@ -1208,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shubhamc1947/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/shubhamc1947/leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 ## Ordered Set
 |  |
