@@ -1,14 +1,13 @@
 class Solution {
-
+    public int func(int n,int dp[]){
+        if(n==1 || n==2) return n;
+        if(dp[n]!=-1) return dp[n];
+        dp[n]= func(n-1,dp)+func(n-2,dp);
+        return dp[n];
+    }
     public int climbStairs(int n) {
-        int prev0=1;
-        int prev1=1;
-        for(int i=2;i<=n;i++){
-            int curr=prev0+prev1;
-            prev0=prev1;
-            prev1=curr;
-        }
-        return prev1;
-        
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
+        return func(n,dp);
     }
 }
