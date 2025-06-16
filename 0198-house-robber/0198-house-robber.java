@@ -1,23 +1,19 @@
 class Solution {
+   
+    
     public int rob(int[] arr) {
         int n=arr.length;
-        //base case
         if(n==1) return arr[0];
-        if(n==2) return Math.max(arr[0],arr[1]);
-
-        int dp[]=new int[n];
-
-        //initilizatino 
-        int secondLast=arr[0];
-        int firstLast=Math.max(arr[0],arr[1]);
-
-        for(int i=2;i<n;i++){
-            int take=secondLast+arr[i];
-            int notTake=firstLast+0;
-            int curr=Math.max(take,notTake);
-            secondLast=firstLast;
-            firstLast=curr;
+        int prev2=arr[0];
+        int prev1=Math.max(arr[0],arr[1]);
+        for(int idx=2;idx<n;idx++){
+            int take=arr[idx]+prev2;
+            int notTake=0+prev1;
+            int curr= Math.max(take,notTake);
+            prev2=prev1;
+            prev1=curr;
+            
         }
-        return firstLast;
+        return prev1;
     }
 }
