@@ -1,23 +1,19 @@
 class Solution {
-    
+    public int func(List<List<Integer>> arr,int n,int i,int j,int dp[][]){
+        if(i==n-1){
+            return arr.get(i).get(j);
+        }
+        if(dp[i][j]!=-1) return dp[i][j];
+        int bottom=arr.get(i).get(j)+func(arr,n,i+1,j,dp);
+        int dia=arr.get(i).get(j)+func(arr,n,i+1,j+1,dp);
+        return dp[i][j]= Math.min(bottom,dia);
+    }
     public int minimumTotal(List<List<Integer>> arr) {
         int n=arr.size();
-        int next[]=new int[n];
-        //base case
-        for(int j=0;j<n;j++){
-            next[j]=arr.get(n-1).get(j);
+        int dp[][]=new int[n][n];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
         }
-
-        for(int i=n-2;i>=0;i--){
-            int curr[]=new int[n];
-            for(int j=0;j<=i;j++){
-                int bottom=next[j]+arr.get(i).get(j);
-                int dia=next[j+1]+arr.get(i).get(j);
-                curr[j]= Math.min(bottom,dia);
-            }
-            next=curr;
-        }
-
-        return next[0];
+        return func(arr,n,0,0,dp);
     }
 }
