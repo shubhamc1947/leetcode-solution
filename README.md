@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shubhamc1947/leetcode-solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubhamc1947/leetcode-solution/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shubhamc1947/leetcode-solution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/shubhamc1947/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0113-path-sum-ii) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shubhamc1947/leetcode-solution/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0190-reverse-bits) |
