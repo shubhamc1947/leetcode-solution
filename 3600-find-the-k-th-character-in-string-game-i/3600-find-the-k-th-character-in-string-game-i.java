@@ -7,7 +7,7 @@ class Solution {
             if(len>=k+2){
                 break;
             }
-            System.out.println(len);
+            // System.out.println(len);
             for(int j=0;j<len;j++){
                
                 if(sb.charAt(j)=='z'){
@@ -17,7 +17,7 @@ class Solution {
                 }
                 
             }
-            System.out.println(sb);
+            // System.out.println(sb);
         }
         return sb.charAt(k-1);
     }
