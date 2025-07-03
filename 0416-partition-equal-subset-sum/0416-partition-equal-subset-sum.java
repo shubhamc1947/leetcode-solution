@@ -23,12 +23,23 @@ class Solution {
         if(totSum%2!=0){
             return false;
         }
-        int tar=totSum/2;
-        int idx=n-1;
-        int dp[][]=new int[n][tar+1];
+        int tar2=totSum/2;
+        int idx2=n-1;
+        boolean dp[][]=new boolean[n][tar2+1];
         for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+            dp[i][0]=true;
         }
-        return func(arr,idx,tar,dp);
+
+        for(int idx=1;idx<n;idx++){
+            for(int tar=0;tar<=tar2;tar++){
+                boolean notTake= dp[idx-1][tar];
+                boolean take=false;
+                if(tar>=arr[idx] && tar-arr[idx]>=0){
+                    take=dp[idx-1][tar-arr[idx]];
+                }
+                dp[idx][tar]= take||notTake;
+            }
+        }
+        return dp[idx2][tar2];
     }
 }
