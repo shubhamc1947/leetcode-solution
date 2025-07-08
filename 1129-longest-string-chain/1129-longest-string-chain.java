@@ -7,8 +7,8 @@ class Solution {
         }
         int j=0;
         int i=0;
-        for(;i<n1;){
-            if(j<n2&&s1.charAt(i)==s2.charAt(j)){
+        while(i<n1){
+            if(j<n2 && s1.charAt(i)==s2.charAt(j)){
                 j++;
                 i++;
             }else{
