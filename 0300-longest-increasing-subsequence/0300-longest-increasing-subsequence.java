@@ -1,44 +1,32 @@
 class Solution {
-
+    public void lowerBoundReplace (ArrayList<Integer> temp,int si,int ei,int tar){
+        int idx=-1;
+        while(si<=ei){
+            int mid=(si+ei)/2;
+            if(temp.get(mid)>=tar){
+                idx=mid;
+                ei=mid-1;
+            }else{
+                si=mid+1;
+            }
+        }
+        temp.set(idx,tar);
+        // System.out.println(temp);
+    }
     public int lengthOfLIS(int[] arr) {
         int n=arr.length;
-        int dp[]=new int[n];
-        Arrays.fill(dp,1);
-        int ans=1;
-
-        int temp[]=new int[n];
-        for(int i=0;i<n;i++) temp[i]=i;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(arr[i]>arr[j]){
-                    if(dp[i]<dp[j]+1) {
-                        dp[i]=dp[j]+1;
-                        temp[i]=j;
-                        ans=Math.max(dp[i],ans);
-
-                    }
-                }
+        ArrayList<Integer> temp=new ArrayList<>();
+        temp.add(arr[0]);
+        int len=1;
+        for(int i=1;i<n;i++){
+            if(arr[i]>temp.get(len-1)){
+                temp.add(arr[i]);
+                len++;
+            }else{
+                lowerBoundReplace(temp,0,len-1,arr[i]);
             }
         }
-        // find the max lcs in dp for starting index
-        int stIdx=-1;
-        for(int i=0;i<n;i++){
-            if(dp[i]==ans){
-                stIdx=i;
-                break;
-            }
-        }
-
-        System.out.println(stIdx);
-        ArrayList<Integer> ansArr=new ArrayList<>();
-
-        while(stIdx!=temp[stIdx]){
-            ansArr.add(arr[stIdx]);
-            stIdx=temp[stIdx];
-        }
-        ansArr.add(arr[stIdx]);
-        System.out.println(ansArr);
-
-        return ans;
+        return len;
+        
     }
 }
