@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/shubhamc1947/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhamc1947/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shubhamc1947/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shubhamc1947/leetcode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shubhamc1947/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
