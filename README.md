@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhamc1947/leetcode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/shubhamc1947/leetcode-solution/tree/master/1293-three-consecutive-odds) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1250-longest-common-subsequence) |
@@ -1132,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamc1947/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shubhamc1947/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1212,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shubhamc1947/leetcode-solution/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
+| [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shubhamc1947/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
