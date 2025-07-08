@@ -1,26 +1,41 @@
 class Solution {
-    public List<Integer> largestDivisibleSubset(int[] nums) {
-        Arrays.sort(nums);
-        int[] dp = new int[nums.length];
-        int[] prev = new int[nums.length];
-        Arrays.fill(dp, 1);
-        Arrays.fill(prev, -1);
-        int maxi = 0;
-        for (int i = 1; i < nums.length; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[i] % nums[j] == 0 && dp[i] < dp[j] + 1) {
-                    dp[i] = dp[j] + 1;
-                    prev[i] = j;
+    public List<Integer> largestDivisibleSubset(int[] arr) {
+        //similar to longest increasing subsequence
+        int n=arr.length;
+        int dp[]=new int[n];
+        Arrays.fill(dp,1);// minium is 1
+        int temp[]=new int[n];
+        for(int i=0;i<n;i++) temp[i]=i;
+
+        int ans=1;
+        Arrays.sort(arr);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(arr[i]%arr[j]==0){
+                    if(dp[i]<dp[j]+1){
+                        dp[i]=dp[j]+1;
+                        ans=Math.max(ans,dp[i]);
+                        temp[i]=j;
+                    }
                 }
             }
-            if (dp[i] > dp[maxi]) maxi = i;
         }
-        List<Integer> res = new ArrayList<>();
-        for (int i = maxi; i >= 0; i = prev[i]) {
-            res.add(nums[i]);
-            if (prev[i] == -1) break;
+
+        //find max ele from the dp (ans) we need to start from that index 
+        int stIdx=-1;
+        for(int i=0;i<n;i++){
+            if(dp[i]==ans) {
+                stIdx=i;
+                break;
+            }
         }
-        Collections.reverse(res); 
-        return res;
+        List<Integer> ansArr=new ArrayList<>();
+        while(stIdx!=temp[stIdx]){
+            ansArr.add(arr[stIdx]);
+            stIdx=temp[stIdx];
+        }
+        ansArr.add(arr[stIdx]);
+        return ansArr;
+
     }
 }
