@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhamc1947/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1559-cherry-pickup-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1559-cherry-pickup-ii) |
