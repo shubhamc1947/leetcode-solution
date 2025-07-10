@@ -1,24 +1,21 @@
 class Solution {
     public int lengthOfLIS(int[] arr) {
-        //recursive approch
         int n=arr.length;
-        int next[]=new int[n+1];
-
-        for(int idx=n-1;idx>=0;idx--){
-            int curr[]=new int[n+1];
-            for(int prev=-1;prev<n;prev++){
-                int notTake= next[prev+1];
-
-                int take=-(int)1e8;
-                if(prev==-1 || arr[idx]>arr[prev]){
-                    take=1+ next[idx+1];
+        int dp[]=new int[n];
+        Arrays.fill(dp,1);
+        int maxi=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(arr[i]>arr[j] && dp[i]<dp[j]+1){
+                    dp[i]=dp[j]+1;
+                    maxi=Math.max(dp[i],maxi);
                 }
-                curr[prev+1]= Math.max(take,notTake);
-
             }
-            next=curr;
         }
-        return next[-1+1];
-        
+        // for(int i=0;i<n;i++){
+        //     System.out.print(dp[i]+" ");
+        // }
+        System.out.println();
+        return maxi;
     }
 }
