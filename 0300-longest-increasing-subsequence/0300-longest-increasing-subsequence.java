@@ -1,16 +1,4 @@
 class Solution {
-    public int func(int arr[],int idx,int prev,int n,int dp[][]){
-        if(idx==n) return 0;
-        if(dp[idx][prev+1]!=-1) return dp[idx][prev+1];
-        //not Take
-        int notTake=func(arr,idx+1,prev,n,dp);
-        
-        int take=-(int)1e8;
-        if(prev==-1 || arr[idx]>arr[prev]){
-            take=1+func(arr,idx+1,idx,n,dp);
-        }
-        return dp[idx][prev+1]= Math.max(take,notTake);
-    }
     public int lengthOfLIS(int[] arr) {
         //recursive approch
         int n=arr.length;
