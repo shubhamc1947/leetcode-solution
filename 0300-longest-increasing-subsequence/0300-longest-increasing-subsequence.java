@@ -1,32 +1,24 @@
 class Solution {
-    public void lowerBoundReplace (ArrayList<Integer> temp,int si,int ei,int tar){
-        int idx=-1;
-        while(si<=ei){
-            int mid=(si+ei)/2;
-            if(temp.get(mid)>=tar){
-                idx=mid;
-                ei=mid-1;
-            }else{
-                si=mid+1;
-            }
+    public int func(int arr[],int idx,int prev,int n,int dp[][]){
+        if(idx==n) return 0;
+        if(dp[idx][prev+1]!=-1) return dp[idx][prev+1];
+        //not Take
+        int notTake=func(arr,idx+1,prev,n,dp);
+        
+        int take=-(int)1e8;
+        if(prev==-1 || arr[idx]>arr[prev]){
+            take=1+func(arr,idx+1,idx,n,dp);
         }
-        temp.set(idx,tar);
-        // System.out.println(temp);
+        return dp[idx][prev+1]= Math.max(take,notTake);
     }
     public int lengthOfLIS(int[] arr) {
+        //recursive approch
+        int idx=0;
         int n=arr.length;
-        ArrayList<Integer> temp=new ArrayList<>();
-        temp.add(arr[0]);
-        int len=1;
-        for(int i=1;i<n;i++){
-            if(arr[i]>temp.get(len-1)){
-                temp.add(arr[i]);
-                len++;
-            }else{
-                lowerBoundReplace(temp,0,len-1,arr[i]);
-            }
-        }
-        return len;
+        int prev=-1;
+        int dp[][]=new int[n][n+1];
+        for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
+        return func(arr,idx,prev,n,dp);
         
     }
 }
