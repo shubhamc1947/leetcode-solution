@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2058-concatenation-of-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shubhamc1947/leetcode-solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1326,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shubhamc1947/leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1399,4 +1403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
