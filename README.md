@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhamc1947/leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhamc1947/leetcode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shubhamc1947/leetcode-solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shubhamc1947/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
