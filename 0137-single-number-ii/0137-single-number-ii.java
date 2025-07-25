@@ -1,10 +1,20 @@
 class Solution {
-    public int singleNumber(int[] arr) {
-        int ones = 0, twos = 0;
-        for (int i = 0; i < arr.length; i++) {
-            ones = (ones ^ arr[i]) & (~twos);
-            twos = (twos ^ arr[i]) & (~ones);
+    public int singleNumber(int[] nums) {
+        HashMap<Integer,Integer> hm=new HashMap<>();
+        int n=nums.length;
+        for(int i=0;i<n;i++){
+            if(hm.containsKey(nums[i])){
+                hm.put(nums[i],hm.get(nums[i])+1);
+            }else{
+                hm.put(nums[i],1);
+            }
         }
-        return ones;
+        
+        for(int curr: hm.keySet()){
+            if(hm.get(curr)==1){
+                return curr;
+            }
+        }
+        return -1;
     }
 }
