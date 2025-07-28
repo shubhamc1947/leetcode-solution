@@ -1,5 +1,5 @@
 /*
-// Definition for a Node.
+Definition for a Node.
 class Node {
     public int val;
     public List<Node> neighbors;
@@ -17,27 +17,26 @@ class Node {
     }
 }
 */
+
 class Solution {
-    public Node cloneGraph(Node node) {
-        if (node == null) return null;
-        if (node.neighbors.isEmpty()) return new Node(node.val);
+    public Node cloneUtils(Node node,HashMap<Node,Node> hm){
+        Node newNode=new Node(node.val);
+        hm.put(node,newNode);
 
-        HashMap<Node, Node> cp = new HashMap<>();
-        Queue<Node> qu = new LinkedList<>();
-
-        cp.put(node, new Node(node.val));
-        qu.offer(node);
-
-        while(!qu.isEmpty()) {
-            Node curr = qu.poll();
-            for(Node nei: curr.neighbors) {
-                if(!cp.containsKey(nei)) {
-                    cp.put(nei, new Node(nei.val));
-                    qu.add(nei);
-                }
-                cp.get(curr).neighbors.add(cp.get(nei));
+        for(Node neighbour: node.neighbors){
+            if(!hm.containsKey(neighbour)){
+                //first time
+                newNode.neighbors.add(cloneUtils(neighbour,hm));
+            }else{
+                newNode.neighbors.add(hm.get(neighbour));
             }
         }
-        return cp.get(node);//this would return the answer
+        return newNode;
+
+    }
+    public Node cloneGraph(Node node) {
+        if(node==null) return null;
+        HashMap<Node,Node> hm=new HashMap<>();
+        return cloneUtils(node,hm);
     }
 }
