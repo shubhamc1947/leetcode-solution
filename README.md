@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/shubhamc1947/leetcode-solution/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0826-soup-servings) |
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
@@ -1475,4 +1477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhamc1947/leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
