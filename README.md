@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/shubhamc1947/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
