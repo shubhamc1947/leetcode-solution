@@ -1,29 +1,29 @@
 class Solution {
-    public int numIslands(char[][] grid) {
-        int n=grid.length,m=grid[0].length;
-        int vis[][]=new int[n][m];
-        int noOfIslands=0;
+    public void dfs(int i,int j,int vis[][],char arr[][],int n,int m,int xCor[],int yCor[] ){
+        vis[i][j]=1;
+        for(int x=0;x<4;x++){
+            int newX=i+xCor[x];
+            int newY=j+yCor[x];
+            if(newX>=0 && newX<n && newY>=0 && newY<m && vis[newX][newY]==0 && arr[newX][newY]=='1'){
+                dfs(newX,newY,vis,arr,n,m,xCor,yCor);
+            }
+        }
+    }
+    public int numIslands(char[][] arr) {
+        int n=arr.length;
+        int m=arr[0].length;
+        int vis[][]=new int[n][m];//
+        int count=0;
+        int xCor[]={-1,0,0,1};
+        int yCor[]={0,-1,1,0};
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]=='1' &&vis[i][j]==0 ){
-                    dfs(i,j,grid,vis);
-                    noOfIslands++;
+                if(arr[i][j]=='1' && vis[i][j]==0){
+                    dfs(i,j,vis,arr,n,m,xCor,yCor);
+                    count++;
                 }
             }
         }
-        return noOfIslands;
-    }
-    public static void dfs(int i,int j,char grid[][],int vis[][]){
-        vis[i][j]=1;
-        
-        int xAxis[]={-1,0,0,1};
-        int yAxis[]={0,1,-1,0};
-        for(int k=0;k<4;k++){
-            int currX=(int)xAxis[k]+i;
-            int currY=(int)yAxis[k]+j;
-            if(currX>=0 && currY>=0 && currX<grid.length && currY<grid[0].length && grid[currX][currY]=='1' && vis[currX][currY]==0){
-                dfs(currX,currY,grid,vis);
-            }
-        }
+        return count;
     }
 }
