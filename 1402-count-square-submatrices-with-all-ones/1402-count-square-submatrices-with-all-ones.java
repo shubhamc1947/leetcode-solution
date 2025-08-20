@@ -3,9 +3,7 @@ class Solution {
         int n=arr.length;
         int m=arr[0].length;
         int prev[]=new int[m];
-        // for(int i=0;i<n;i++){
-        //     dp[i][0]=arr[i][0];
-        // }
+       
         int sum=0;
         for(int j=0;j<m;j++){
             prev[j]=arr[0][j];
