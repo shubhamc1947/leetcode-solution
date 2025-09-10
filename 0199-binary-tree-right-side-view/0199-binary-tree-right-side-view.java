@@ -1,20 +1,44 @@
-class Solution {
-    int maxlevel = 0;
-    public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> list  = new ArrayList<>();
-        right(root,1,list);
-        return list ;
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+ class Pair{
+    int x;
+    TreeNode node;
+    public Pair(int x, TreeNode node){
+        this.x=x;
+        this.node=node;
     }
-    void right(TreeNode root,int level,List<Integer> list){
-        if(root==null){
-            return ;
+ }
+class Solution {
+    public List<Integer> rightSideView(TreeNode root) {
+        if(root==null) return new ArrayList<>();
+        TreeMap<Integer,Integer> tm=new TreeMap<>();
+        Queue<Pair> que=new LinkedList<>();
+        que.add(new Pair(0,root));
+        while(!que.isEmpty()){
+            Pair curr=que.remove();
+            int currX=curr.x;
+            TreeNode currN=curr.node;
+            tm.put(currX,currN.val);
+            if(currN.left!=null){
+                que.add(new Pair(currX+1,currN.left));
+            }
+            if(currN.right!=null){
+                que.add(new Pair(currX+1,currN.right));
+            }
         }
-        if(maxlevel<level){
-            list.add(root.val);
-            maxlevel=level;
-        }
-        right(root.right,level+1,list);
-        right(root.left,level+1,list);
-        
+        return new ArrayList<>(tm.values());
     }
 }
