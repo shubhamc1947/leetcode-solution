@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shubhamc1947/leetcode-solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1455,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
