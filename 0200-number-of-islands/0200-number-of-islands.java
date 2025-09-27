@@ -5,8 +5,10 @@ class Solution {
         for(int a=0;a<4;a++){
             int newX=i+xCor[a];
             int newY=j+yCor[a];
-            if(newX>=0 && newY>=0 && newX<n && newY<m && arr[newX][newY]=='1' && vis[newX][newY]==0){
-                dfs(arr,newX,newY,vis,xCor,yCor,n,m);
+            if(newX>=0 && newY>=0 && newX<n && newY<m){// check if valid coordinate
+                if( arr[newX][newY]=='1' && vis[newX][newY]==0){//check if not visited and island
+                    dfs(arr,newX,newY,vis,xCor,yCor,n,m);
+                }
             }
         }
     }
