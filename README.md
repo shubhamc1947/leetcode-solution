@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhamc1947/leetcode-solution/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/shubhamc1947/leetcode-solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
