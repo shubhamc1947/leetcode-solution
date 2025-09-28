@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [1236-n-th-tribonacci-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shubhamc1947/leetcode-solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhamc1947/leetcode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1339,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
