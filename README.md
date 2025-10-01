@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/shubhamc1947/leetcode-solution/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/shubhamc1947/leetcode-solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shubhamc1947/leetcode-solution/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/shubhamc1947/leetcode-solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
