@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shubhamc1947/leetcode-solution/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shubhamc1947/leetcode-solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/shubhamc1947/leetcode-solution/tree/master/0871-keys-and-rooms) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shubhamc1947/leetcode-solution/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shubhamc1947/leetcode-solution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/shubhamc1947/leetcode-solution/tree/master/0871-keys-and-rooms) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shubhamc1947/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shubhamc1947/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shubhamc1947/leetcode-solution/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shubhamc1947/leetcode-solution/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/shubhamc1947/leetcode-solution/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhamc1947/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1016,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamc1947/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
+| [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
