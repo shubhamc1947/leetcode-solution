@@ -1,14 +1,15 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
-        int in_car = 0;
-        int[] increase = new int[1001];
-        for (int i = 0; i < trips.length; i ++) { 
-            increase[trips[i][1]] += trips[i][0];
-            increase[trips[i][2]] -= trips[i][0];
+        int road[]=new int[1001];
+        int tripLen=trips.length;
+        for(int i=0;i<tripLen;i++){
+            road[trips[i][1]]+=trips[i][0];
+            road[trips[i][2]]-=trips[i][0];
         }
-        for (int i = 0; i <= 1000; i ++) {
-            in_car += increase[i];
-            if (in_car > capacity) return false; 
+        int currPassengers=0;
+        for(int i=0;i<1001;i++){
+            currPassengers+=road[i];
+            if(currPassengers>capacity) return false;
         }
         return true;
     }
