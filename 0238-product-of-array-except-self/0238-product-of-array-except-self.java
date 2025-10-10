@@ -1,34 +1,22 @@
 class Solution {
-    public int[] productExceptSelf(int[] nums) {
-        int zeroCount = 0;
-        long nonZeroProduct = 1;
-        int[] result = new int[nums.length];
-        for (int index = 0; index < nums.length; index++) {
-            if (nums[index] == 0) {
-                zeroCount++;
-            } else {
-                nonZeroProduct *= nums[index];
-            }
+    public int[] productExceptSelf(int[] arr) {
+        int n=arr.length;
+        int prefixMulti[]=new int[n];
+        prefixMulti[0]=1;
+        
+        for(int i=1;i<n;i++){
+            prefixMulti[i]=prefixMulti[i-1]*arr[i-1];
+        }
+        int postfixMulti[]=new int[n];
+        postfixMulti[n-1]=1;
+        for(int i=n-2;i>=0;i--){
+            postfixMulti[i]=postfixMulti[i+1]*arr[i+1];
         }
 
-        if (zeroCount > 1) {
-            return result;
+        for(int i=0;i<n;i++){
+            postfixMulti[i]=postfixMulti[i]*prefixMulti[i];
         }
 
-        if (zeroCount == 1) {
-            for (int index = 0; index < nums.length; index++) {
-                if (nums[index] == 0) {
-                    result[index] = (int) nonZeroProduct;
-                } else {
-                    result[index] = 0;
-                }
-            }
-            return result;
-        }
-
-        for (int index = 0; index < nums.length; index++) {
-            result[index] = (int) nonZeroProduct / nums[index];
-        }
-        return result;
+        return postfixMulti;
     }
 }
