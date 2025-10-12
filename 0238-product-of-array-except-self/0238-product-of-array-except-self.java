@@ -7,15 +7,13 @@ class Solution {
             leftMulti[i]=leftMulti[i-1]*arr[i-1];
         }
 
-        int rightMulti[]=new int[n];
-        rightMulti[n-1]=1;
+        int rightMulti=1;
+
         for(int i=n-2;i>=0;i--){
-            rightMulti[i]=rightMulti[i+1]*arr[i+1];
+            rightMulti=rightMulti*arr[i+1];
+            leftMulti[i]=leftMulti[i]*rightMulti;
         }
 
-        for(int i=0;i<n;i++){
-            leftMulti[i]=leftMulti[i]*rightMulti[i];
-        }
         return leftMulti;
     }
 }
