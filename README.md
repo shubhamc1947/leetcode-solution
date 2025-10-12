@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shubhamc1947/leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0213-house-robber-ii) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1633,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/shubhamc1947/leetcode-solution/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
