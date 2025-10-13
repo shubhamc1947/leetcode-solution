@@ -7,10 +7,17 @@ class Solution {
         int ans=0;
         for(int i=0;i<n;i++){
             prefixSum+=arr[i];
-            int rem = ((prefixSum % k) + k) % k;
-            ans += hm.getOrDefault(rem, 0);
-            hm.put(rem, hm.getOrDefault(rem, 0) + 1);
+            int rem = ((prefixSum % k) + k) % k;// we only need positive
+
+            if(!hm.containsKey(rem)){
+                hm.put(rem,1);
+            }else{
+                int currFreq=hm.get(rem);
+                ans+=currFreq;
+                hm.put(rem,currFreq+1);
+            }
         }
+        System.out.println(hm);
         return ans;
 
     }
