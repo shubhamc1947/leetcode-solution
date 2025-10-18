@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhamc1947/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
