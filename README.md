@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/shubhamc1947/leetcode-solution/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhamc1947/leetcode-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhamc1947/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/shubhamc1947/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shubhamc1947/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shubhamc1947/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shubhamc1947/leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -1362,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shubhamc1947/leetcode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shubhamc1947/leetcode-solution/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamc1947/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
