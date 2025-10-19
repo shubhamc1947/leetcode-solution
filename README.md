@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhamc1947/leetcode-solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhamc1947/leetcode-solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
@@ -1668,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/shubhamc1947/leetcode-solution/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shubhamc1947/leetcode-solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
