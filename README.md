@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhamc1947/leetcode-solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/shubhamc1947/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shubhamc1947/leetcode-solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/shubhamc1947/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [1612-avoid-flood-in-the-city](https://github.com/shubhamc1947/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
