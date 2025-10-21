@@ -928,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
