@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhamc1947/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shubhamc1947/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
