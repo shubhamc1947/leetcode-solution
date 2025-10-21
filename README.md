@@ -931,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/shubhamc1947/leetcode-solution/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/shubhamc1947/leetcode-solution/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhamc1947/leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/3462-vowels-game-in-a-string) |
