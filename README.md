@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2023-design-movie-rental-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2058-concatenation-of-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/shubhamc1947/leetcode-solution/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2023-design-movie-rental-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shubhamc1947/leetcode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/shubhamc1947/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shubhamc1947/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
