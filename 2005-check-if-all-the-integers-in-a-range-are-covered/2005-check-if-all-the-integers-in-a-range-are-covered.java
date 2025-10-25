@@ -1,19 +1,17 @@
 class Solution {
     public boolean isCovered(int[][] ranges, int left, int right) {
-        HashSet<Integer> uniqueNum=new HashSet<>();
-        for(int i=left;i<=right;i++){
-            uniqueNum.add(i);
-        }
-        for(int i=0;i<ranges.length;i++){
-            for(int j=ranges[i][0];j<=ranges[i][1];j++){
-                if(uniqueNum.contains(j)){
-                    uniqueNum.remove(j);
-                    if(uniqueNum.isEmpty()){
-                        return true;
-                    }
-                }
+        int[] cover = new int[52];
+
+        for (int[] range : ranges) {
+            for (int i = range[0]; i <= range[1]; i++) {
+                cover[i] = 1;
             }
         }
-        return false;
+
+        for (int i = left; i <= right; i++) {
+            if (cover[i] == 0) return false;
+        }
+        return true;
+
     }
 }
