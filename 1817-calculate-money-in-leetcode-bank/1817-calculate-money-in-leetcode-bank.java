@@ -12,7 +12,6 @@ class Solution {
                 if(n==0){
                     break;
                 }
-                System.out.println(curr+" "+mon+" "+j+" "+ans);
             }
             ans+=curr;
         }
