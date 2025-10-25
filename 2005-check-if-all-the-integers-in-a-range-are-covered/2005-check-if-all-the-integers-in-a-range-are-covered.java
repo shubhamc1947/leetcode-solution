@@ -6,13 +6,12 @@ class Solution {
             prefixArr[ranges[i][1]+1]--;
         }
 
-        for(int i=1;i<52;i++){
+        for(int i=1;i<51;i++){
             prefixArr[i]+=prefixArr[i-1];
         }
-        for(int j=left;j<=right;j++){
-            if(prefixArr[j]==0){
-                return false;
-            }
+
+        for(int i=left;i<=right;i++){
+            if(prefixArr[i]==0) return false;
         }
         return true;
     }
