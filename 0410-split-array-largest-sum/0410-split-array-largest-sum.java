@@ -1,12 +1,15 @@
 class Solution {
-    public boolean check(int arr[],int maxiSum,int k,int n){
+    public boolean check(int arr[],int mid,int n,int k){
         int currSum=arr[0];
         int count=1;
+
         for(int i=1;i<n;i++){
-            if(currSum+arr[i]>maxiSum){
-                count++;
+            if(arr[i]+currSum>mid){
                 currSum=arr[i];
-                if(count>k) return false;
+                count++;
+                if(count>k){
+                    return false;
+                }
             }else{
                 currSum+=arr[i];
             }
@@ -20,10 +23,10 @@ class Solution {
             si=Math.max(si,arr[i]);
             ei+=arr[i];
         }
-        int ans=arr[0];
+        int ans=ei;
         while(si<=ei){
             int mid=si+(ei-si)/2;
-            if(check(arr,mid,k,n)){
+            if(check(arr,mid,n,k)){
                 ans=mid;
                 ei=mid-1;
             }else{
