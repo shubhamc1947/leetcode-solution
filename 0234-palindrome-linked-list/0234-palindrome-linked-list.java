@@ -9,36 +9,46 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
+    public ListNode getMid(ListNode head){
         ListNode slow=head;
-        ListNode fast=head;
+        ListNode fast=head.next;// we need first list last node
         while(fast!=null && fast.next!=null){
-            slow=slow.next;
             fast=fast.next.next;
-            if(slow==fast){
-                return false;
-            }
+            slow=slow.next;
         }
-        //reverse from slow till end
-        ListNode curr=slow;
+        return slow;
+    }
+    public ListNode reverseLL(ListNode head){
         ListNode prev=null;
-        ListNode next=null;
+        ListNode curr=head;
+        ListNode next;
         while(curr!=null){
             next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
         }
+        return prev;
+    }
+    public boolean isPalindrome(ListNode head) {
+        if(head==null || head.next==null){
+            return true;
+        }
+        // 1=> find mid
+        ListNode midNode=getMid(head);
+        ListNode rightHead=midNode.next;
+        midNode.next=null;
+        //2=> reverse 2nd helf
+        rightHead=reverseLL(rightHead);
+        ListNode leftHead=head;
 
-        ListNode revHead=prev;
-
-        while(revHead!=null){
-            if(head.val!=revHead.val){
+        //3=> check
+        while(leftHead!=null&&rightHead !=null){
+            if(leftHead.val!=rightHead.val){
                 return false;
-            }else{
-                head=head.next;
-                revHead=revHead.next;
             }
+            leftHead=leftHead.next;
+            rightHead=rightHead.next;
         }
         return true;
     }
