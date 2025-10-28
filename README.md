@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shubhamc1947/leetcode-solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shubhamc1947/leetcode-solution/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1568,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0165-compare-version-numbers) |
@@ -1614,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhamc1947/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shubhamc1947/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
