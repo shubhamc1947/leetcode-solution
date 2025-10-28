@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhamc1947/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/shubhamc1947/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
@@ -1620,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shubhamc1947/leetcode-solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1648,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shubhamc1947/leetcode-solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shubhamc1947/leetcode-solution/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shubhamc1947/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhamc1947/leetcode-solution/tree/master/0739-daily-temperatures) |
