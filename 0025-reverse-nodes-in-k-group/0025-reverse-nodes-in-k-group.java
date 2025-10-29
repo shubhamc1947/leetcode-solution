@@ -9,28 +9,50 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode start, ListNode end) {
-        ListNode prev = null, curr = start;
-        while (curr != end) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+    public ListNode findKthNode(ListNode temp,int k){
+        ListNode curr=temp;
+        while(curr!=null && k>1){
+            curr=curr.next;
+            k--;
+        }
+        return curr;
+    }
+    public ListNode reverseLL(ListNode temp){
+        ListNode curr=temp;
+        ListNode prev=null;
+        ListNode next=null;
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
         return prev;
     }
-
     public ListNode reverseKGroup(ListNode head, int k) {
-        int count = 0;
-        ListNode temp = head;
-        while (temp != null && count < k) {
-            temp = temp.next;
-            count++;
+        ListNode temp=head;
+        ListNode prevNode=null;
+        while(temp!=null){
+            //find kth Node
+            ListNode kthNode=findKthNode(temp,k);
+            if(kthNode==null){
+                prevNode.next=temp;
+                break;
+            }
+            //preserve next node and break current chain
+            ListNode nextNode=kthNode.next;
+            //break current chain from temp to kthNode
+            kthNode.next=null;
+            //reverse from temp to kthNode
+            ListNode newHead=reverseLL(temp);
+            if(temp==head){//first group
+                head=newHead;
+            }else{
+                prevNode.next=newHead;
+            }
+            prevNode=temp;
+            temp=nextNode;
         }
-        if (count < k) return head;
-
-        ListNode newHead = reverse(head, temp);
-        head.next = reverseKGroup(temp, k);
-        return newHead;
+        return head;
     }
 }
