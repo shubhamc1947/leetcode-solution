@@ -9,44 +9,36 @@
  * }
  */
 class Solution {
-    //crating custom class for finding size and last Node 
-    class Utility{
-        int size;
-        ListNode tail;
-        Utility(int size, ListNode tail){
-            this.size=size;
-            this.tail=tail;
-        }
-    }
-    public ListNode rotateRight(ListNode head, int k) {
-        if(head==null)return head;
-        //finding Tail and size of head
-        Utility tempSizeTail=sizetail(head);
-        int size=tempSizeTail.size;
-        ListNode tail=tempSizeTail.tail;
 
-        k%=size;
-        if(k==0)return head;        
-
+    public int size(ListNode head){
         ListNode curr=head;
-
-        for(int i=1;i<size-k;i++){
+        int n=0;
+        while(curr!=null){
             curr=curr.next;
+            n++;
+        }
+        return n;
+    }
+
+    public ListNode rotateRight(ListNode head, int k) {
+        if(head==null) return null;
+        int n=size(head);
+        if(k%n==0) return head;
+        k=k%n;
+        ListNode fast=head;
+        ListNode slow=head;
+        for(int i=0;i<k;i++){
+            fast=fast.next;
+        }
+        while(fast.next!=null){
+            slow=slow.next;
+            fast=fast.next;
         }
 
-        ListNode next=curr.next;
-        curr.next=null;
-        tail.next=head;
-        return next;  
-        
-    }
-    public Utility sizetail(ListNode head){
-        ListNode tail=head;
-        int size=1;
-        while(tail.next!=null){
-            tail=tail.next;
-            size++;
-        }
-        return new Utility(size, tail);
+        ListNode newHead=slow.next;
+        slow.next=null;
+        fast.next=head;
+        head=newHead;
+        return head;
     }
 }
