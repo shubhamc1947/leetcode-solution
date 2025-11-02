@@ -8,11 +8,7 @@ class Solution {
             }else{
                 if(st.isEmpty()) return false;
 
-                if(s.charAt(i)==']' && st.peek()=='['){
-                    st.pop();
-                }else if(s.charAt(i)==')' && st.peek()=='('){
-                    st.pop();
-                }else if(s.charAt(i)=='}' && st.peek()=='{'){
+                if((s.charAt(i)==']' && st.peek()=='[') || (s.charAt(i)==')' && st.peek()=='(') || (s.charAt(i)=='}' && st.peek()=='{')){
                     st.pop();
                 }else{
                     return false;
