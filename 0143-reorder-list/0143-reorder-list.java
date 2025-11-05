@@ -32,11 +32,14 @@ class Solution {
             slow=slow.next;
         }
 
+        //step2 store second list head and break the list and reverse the second LL
+
         ListNode head2=slow.next;
         slow.next=null;
         head2=reverseLL(head2);
 
-        //
+        // reorder maintaining existing heads
+
         ListNode temp1=head;
         ListNode temp2=head2;
         while(temp2!=null){
