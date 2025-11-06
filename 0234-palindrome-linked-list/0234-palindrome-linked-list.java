@@ -9,18 +9,17 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
+    public ListNode findMidNode(ListNode head){
         ListNode slow=head;
-        ListNode fast=head;
+        ListNode fast=head.next;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
-            if(slow==fast){
-                return false;
-            }
         }
-        //reverse from slow till end
-        ListNode curr=slow;
+        return slow;
+    }
+    public ListNode reverseLL(ListNode head){
+        ListNode curr=head;
         ListNode prev=null;
         ListNode next=null;
         while(curr!=null){
@@ -29,17 +28,29 @@ class Solution {
             prev=curr;
             curr=next;
         }
-
-        ListNode revHead=prev;
-
-        while(revHead!=null){
-            if(head.val!=revHead.val){
-                return false;
+        return prev;
+    }
+    public boolean checkPalindrome(ListNode h1,ListNode h2){
+        ListNode temp1=h1;
+        ListNode temp2=h2;
+        while(temp1!=null && temp2!=null){
+            if(temp1.val==temp2.val){
+                temp1=temp1.next;
+                temp2=temp2.next;
             }else{
-                head=head.next;
-                revHead=revHead.next;
+                return false;
             }
         }
         return true;
+    }
+    public boolean isPalindrome(ListNode head) {
+        if(head==null || head.next==null) return true;
+
+        ListNode mid=findMidNode(head);
+        ListNode head2=mid.next;
+        mid.next=null; //broke chain
+        head2=reverseLL(head2);
+
+        return checkPalindrome(head, head2);
     }
 }
