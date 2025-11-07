@@ -18,8 +18,9 @@ class Solution {
         ListNode tEven=eHead;
         while(tEven!=null && tEven.next!=null){
             tOdd.next=tEven.next;
-            tEven.next=tEven.next.next;
             tOdd=tOdd.next;
+            
+            tEven.next=tOdd.next;
             tEven=tEven.next;
         }
         tOdd.next=eHead;
