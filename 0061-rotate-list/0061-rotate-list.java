@@ -9,27 +9,35 @@
  * }
  */
 class Solution {
-
-    public int size(ListNode head){
-        ListNode curr=head;
-        int n=0;
-        while(curr!=null){
-            curr=curr.next;
-            n++;
+    public int sizeLL(ListNode head){
+        ListNode temp=head;
+        int size=0;
+        while(temp!=null){
+            temp=temp.next;
+            size++;
         }
-        return n;
+        return size;
     }
-
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null) return null;
-        int n=size(head);
-        if(k%n==0) return head;
-        k=k%n;
+        if(head==null||head.next==null){
+            return head;
+        }
+
+        int size=sizeLL(head);
+
+        if(k%size==0) return head;
+
+        k=k%size;
+
         ListNode fast=head;
         ListNode slow=head;
-        for(int i=0;i<k;i++){
+        int n=size;
+        while(k>0){
+            System.out.println(fast.val);
             fast=fast.next;
+            k--;
         }
+        
         while(fast.next!=null){
             slow=slow.next;
             fast=fast.next;
@@ -40,5 +48,9 @@ class Solution {
         fast.next=head;
         head=newHead;
         return head;
+
+        
+
+
     }
 }
