@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shubhamc1947/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shubhamc1947/leetcode-solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shubhamc1947/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0867-new-21-game) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/shubhamc1947/leetcode-solution/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubhamc1947/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/shubhamc1947/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shubhamc1947/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1814,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shubhamc1947/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
