@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shubhamc1947/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/shubhamc1947/leetcode-solution/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/shubhamc1947/leetcode-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/shubhamc1947/leetcode-solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamc1947/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/shubhamc1947/leetcode-solution/tree/master/0649-dota2-senate) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shubhamc1947/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0542-01-matrix) |
