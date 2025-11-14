@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhamc1947/leetcode-solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shubhamc1947/leetcode-solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/shubhamc1947/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shubhamc1947/leetcode-solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/shubhamc1947/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shubhamc1947/leetcode-solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/shubhamc1947/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhamc1947/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
