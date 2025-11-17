@@ -1,45 +1,38 @@
-class StockSpanner {
-    private static class Node {
-        Node next;
-        int height;
-        int count;
-
-        static Node LAST = new Node();
-
-        static {
-            LAST.height = 0x7FFF_FFFF;
-            LAST.count = 0;
-        }
-    }
-
-    private Node head = Node.LAST;
-
-    private void insert(int height) {
-        if (height == head.height)
-            head.count += 1;
-        else {
-            Node n = new Node();
-
-            n.height = height;
-            n.count = 1;
-
-            while (n.height >= head.height) {
-                n.count += head.count;
-
-                head = head.next;
-            }
-
-            n.next = head;
-            head = n;
-        }
-    }
-
-    public StockSpanner() {
-    }
-
-    public int next(int price) {
-        insert(price);
-
-        return head.count;
+class Node{
+    int price;
+    int idx;
+    Node (int price,int idx){
+        this.price=price;
+        this.idx=idx;
     }
 }
+class StockSpanner {
+
+    Stack<Node> st;
+    int idx;
+    public StockSpanner() {
+        st=new Stack<>();
+        idx=-1;
+    }
+    
+    public int next(int price) {
+        idx++;
+        // if(st.isEmpty()){
+        //     st.push(new Node(price,idx));
+        //     return 1;
+        // }
+        while(!st.isEmpty() && st.peek().price<=price){
+            st.pop();
+        }
+
+        int ans=idx-(st.isEmpty()?-1:st.peek().idx);
+        st.push(new Node(price,idx));
+        return ans;
+    }
+}
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner obj = new StockSpanner();
+ * int param_1 = obj.next(price);
+ */
