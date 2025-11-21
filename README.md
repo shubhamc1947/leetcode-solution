@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2023-design-movie-rental-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2169-simple-bank-system) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/shubhamc1947/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shubhamc1947/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shubhamc1947/leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
