@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/shubhamc1947/leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
@@ -1461,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shubhamc1947/leetcode-solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1610-xor-operation-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
