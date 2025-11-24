@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-    public void postOrder(TreeNode root, List<Integer> ans){
+     public void postOrder(TreeNode root, List<Integer> ans){
         if(root==null) return;
-        postOrder(root.left,ans);
+        postOrder(root.left, ans);
         postOrder(root.right,ans);
         ans.add(root.val);
     }
