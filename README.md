@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/shubhamc1947/leetcode-solution/tree/master/1039-find-the-town-judge) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
