@@ -25,7 +25,6 @@ class Solution {
         return findSum(root.left,curr)+ findSum(root.right,curr);
     }
     public int sumNumbers(TreeNode root) {
-        if(root==null) return 0;
         return findSum(root,0);
     }
 }
