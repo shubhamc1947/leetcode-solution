@@ -14,23 +14,18 @@
  * }
  */
 class Solution {
-    static int ans;
-    public static void count(TreeNode root,int sum){
-        sum=sum*10+root.val;
-        if(root.left==null&&root.right==null){
-            ans+=sum;
-            return;
+    public int findSum(TreeNode root, int curr){
+        if(root==null){
+            return 0;
         }
-        if(root.left!=null){
-            count(root.left,sum);
+        if(root.left==null && root.right==null){
+            return curr*10+root.val;
         }
-        if(root.right!=null){
-            count(root.right,sum);
-        }
+        curr=curr*10+root.val;
+        return findSum(root.left,curr)+ findSum(root.right,curr);
     }
     public int sumNumbers(TreeNode root) {
-        ans=0;
-        count(root,0);
-        return ans;
+        if(root==null) return 0;
+        return findSum(root,0);
     }
 }
