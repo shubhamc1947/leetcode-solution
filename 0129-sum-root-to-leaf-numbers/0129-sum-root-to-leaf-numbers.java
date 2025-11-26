@@ -18,10 +18,10 @@ class Solution {
         if(root==null){
             return 0;
         }
-        if(root.left==null && root.right==null){
-            return curr*10+root.val;
-        }
         curr=curr*10+root.val;
+        if(root.left==null && root.right==null){
+            return curr;
+        }
         return findSum(root.left,curr)+ findSum(root.right,curr);
     }
     public int sumNumbers(TreeNode root) {
