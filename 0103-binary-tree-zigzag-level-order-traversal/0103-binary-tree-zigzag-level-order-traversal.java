@@ -18,29 +18,26 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         if(root==null) return ans;
         Queue<TreeNode> que=new LinkedList<>();
-        que.add(root);
-        boolean leftToRigth=true;
+        que.offer(root);
+        boolean leftToRight= true;
         while(!que.isEmpty()){
-
             int size=que.size();
-            Deque<Integer> currList=new LinkedList<>();
+            Deque<Integer> dque=new ArrayDeque<>();
             for(int i=0;i<size;i++){
-                TreeNode curr=que.remove();
-
-                if(leftToRigth==true){
-                    currList.addLast(curr.val);
+                TreeNode curr=que.poll();
+                if(leftToRight){
+                    dque.addLast(curr.val);
                 }else{
-                    currList.addFirst(curr.val);
+                    dque.addFirst(curr.val);
                 }
 
-                if(curr.left!=null) que.add(curr.left);
-                if(curr.right!=null) que.add(curr.right);
+                if(curr.left!=null) que.offer(curr.left);
+                if(curr.right!=null) que.offer(curr.right);
+
             }
-            leftToRigth=!leftToRigth;
-            ans.add(new ArrayList<>(currList));
+            leftToRight=!leftToRight;
+            ans.add(new ArrayList<>(dque));
         }
-
-
         return ans;
     }
 }
