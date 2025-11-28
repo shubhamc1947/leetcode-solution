@@ -14,16 +14,25 @@
  * }
  */
 class Solution {
-    public int helper(TreeNode root,int curr){
-        if(root==null) return 0;
+    public void helper(TreeNode root,int curr, ArrayList<Integer> arr){
+        if(root==null) return ;
         curr=curr*10+root.val;
         if(root.left==null && root.right==null){
-            return curr;
+            arr.add(curr);
+            return ;
         }
-        return helper(root.left,curr)+helper(root.right,curr);
+        helper(root.left,curr,arr);
+        helper(root.right,curr,arr);
     }
     public int sumNumbers(TreeNode root) {
         if(root==null) return 0;
-        return helper(root,0);
+        ArrayList<Integer> arr=new ArrayList<>();
+        helper(root,0,arr);
+        int cur=0;
+        for(int i=0;i<arr.size();i++){
+            cur+=arr.get(i);
+        }
+        return cur;
+        
     }
 }
