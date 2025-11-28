@@ -14,21 +14,21 @@
  * }
  */
 class Solution {
-    public void findAllPath(TreeNode root, List<String> ans,String curr){
-        if(root==null){
-            return ;
-        }
+    public void helper(List<String> ans, TreeNode root, String currPath){
+        if(root==null) return;
         if(root.left==null && root.right==null){
-            ans.add(curr+root.val+"");
+            //leaf node
+            currPath+=root.val+"";
+            ans.add(currPath);
             return;
         }
-        findAllPath(root.left,ans,curr+root.val+"->");
-        findAllPath(root.right,ans,curr+root.val+"->");
 
+        helper(ans,root.left,currPath+root.val+"->");
+        helper(ans,root.right, currPath+root.val+"->");
     }
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans=new ArrayList<>();
-        findAllPath(root,ans,"");
+        helper(ans,root,"");
         return ans;
     }
 }
