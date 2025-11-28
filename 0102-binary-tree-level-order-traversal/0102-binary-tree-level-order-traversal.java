@@ -17,23 +17,20 @@ class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans=new ArrayList<>();
         if(root==null) return ans;
+
         Queue<TreeNode> que=new LinkedList<>();
         que.add(root);
         while(!que.isEmpty()){
-            int row=que.size();
-            List<Integer> currRow=new ArrayList<>();
-            for(int i=0;i<row;i++){
+            int size=que.size();
+            List<Integer> currRow =new ArrayList<>();
+            for(int i=0;i<size;i++){
                 TreeNode curr=que.remove();
                 currRow.add(curr.val);
-                if(curr.left!=null){
-                    que.add(curr.left);
-                }
-                if(curr.right!=null){
-                    que.add(curr.right);
-                }
+                if(curr.left!=null) que.add(curr.left);
+                if(curr.right!=null) que.add(curr.right);
             }
             ans.add(new ArrayList<>(currRow));
         }
         return ans;
     }
-}
+}   
