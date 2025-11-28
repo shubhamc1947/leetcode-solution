@@ -22,7 +22,7 @@ class Solution {
         boolean leftToRight= true;
         while(!que.isEmpty()){
             int size=que.size();
-            Deque<Integer> dque=new ArrayDeque<>();
+            Deque<Integer> dque=new ArrayDeque<>(size);
             for(int i=0;i<size;i++){
                 TreeNode curr=que.poll();
                 if(leftToRight){
