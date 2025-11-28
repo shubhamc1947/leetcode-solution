@@ -13,27 +13,19 @@
  *     }
  * }
  */
-class Node{
-    int ht;
-    int dia;
-    public Node(int ht,int dia){
-        this.ht=ht;
-        this.dia=dia;
-    }
-}
+
 class Solution {
-    public Node helper(TreeNode root){
-        if(root==null) return new Node(0,0);
-
-        Node left=helper(root.left);
-        Node right=helper(root.right);
-        return new Node(Math.max(left.ht,right.ht)+1,Math.max(1+left.ht+right.ht,Math.max(left.dia,right.dia)));
-
-        
+    public int findHt(TreeNode root,int arr[]){
+        if(root==null) return 0;
+        int leftH=findHt(root.left,arr);
+        int rightH=findHt(root.right,arr);
+        arr[0]=Math.max(arr[0],leftH+rightH);
+        return Math.max(leftH,rightH)+1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
         if(root==null) return 0;
-        Node curr=helper(root);
-        return curr.dia-1;
+        int arr[]=new int[1];
+        int ht=findHt(root,arr);
+        return arr[0];
     }
 }
