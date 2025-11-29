@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shubhamc1947/leetcode-solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhamc1947/leetcode-solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shubhamc1947/leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0706-design-hashmap) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shubhamc1947/leetcode-solution/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
@@ -1264,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shubhamc1947/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/shubhamc1947/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamc1947/leetcode-solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/shubhamc1947/leetcode-solution/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shubhamc1947/leetcode-solution/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1739,6 +1742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0706-design-hashmap) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1907,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0706-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
