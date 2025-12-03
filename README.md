@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shubhamc1947/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/shubhamc1947/leetcode-solution/tree/master/0695-max-area-of-island) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shubhamc1947/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/shubhamc1947/leetcode-solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shubhamc1947/leetcode-solution/tree/master/0907-koko-eating-bananas) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1204,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamc1947/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/shubhamc1947/leetcode-solution/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhamc1947/leetcode-solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/shubhamc1947/leetcode-solution/tree/master/1184-car-pooling) |
@@ -1607,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/shubhamc1947/leetcode-solution/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhamc1947/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
@@ -1720,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shubhamc1947/leetcode-solution/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamc1947/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
