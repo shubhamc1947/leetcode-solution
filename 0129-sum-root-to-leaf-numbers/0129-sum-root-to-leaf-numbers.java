@@ -14,25 +14,16 @@
  * }
  */
 class Solution {
-    public void solve(TreeNode root,List<Integer> ans,int curr){
-        if(root==null) return;
+    public int solve(TreeNode root,int curr){
+        if(root==null) return 0;
         curr=curr*10+root.val;
         if(root.left==null && root.right==null){
-            ans.add(curr);
-            return;
+            return curr;
         }
-        solve(root.left,ans,curr);
-        solve(root.right,ans,curr);
-        curr=curr/10;
+        return solve(root.left,curr)+solve(root.right,curr);
     }
     public int sumNumbers(TreeNode root) {
         if(root==null) return 0;
-        List<Integer> ans=new ArrayList<>();
-        solve(root,ans,0);
-        int ansvar=0;
-        for(int curr:ans){
-            ansvar+=curr;
-        }
-        return ansvar;
+        return solve(root,0);
     }
 }
