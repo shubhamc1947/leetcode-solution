@@ -14,14 +14,15 @@
  * }
  */
 class Solution {
-    public boolean valid(TreeNode root, long mini,long maxi){
+    public boolean isValidBSTFunc(TreeNode root,long mini,long maxi){
         if(root==null) return true;
-        if(!(root.val>mini && root.val<maxi)) return false;
-        return valid(root.left, mini,root.val) && valid(root.right,root.val,maxi);
+        if(root.val>mini && root.val<maxi){
+            return isValidBSTFunc(root.left,mini,root.val) && isValidBSTFunc(root.right,root.val,maxi);
+        }else{
+            return false;
+        }
     }
     public boolean isValidBST(TreeNode root) {
-        long mini=Long.MIN_VALUE;
-        long maxi=Long.MAX_VALUE;
-        return valid(root,mini,maxi);
+        return isValidBSTFunc(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 }
