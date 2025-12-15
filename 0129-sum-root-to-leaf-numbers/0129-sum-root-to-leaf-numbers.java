@@ -14,25 +14,25 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root,int curr, ArrayList<Integer> arr){
-        if(root==null) return ;
+    public void solve(TreeNode root,List<Integer> ans,int curr){
+        if(root==null) return;
         curr=curr*10+root.val;
         if(root.left==null && root.right==null){
-            arr.add(curr);
-            return ;
+            ans.add(curr);
+            return;
         }
-        helper(root.left,curr,arr);
-        helper(root.right,curr,arr);
+        solve(root.left,ans,curr);
+        solve(root.right,ans,curr);
+        curr=curr/10;
     }
     public int sumNumbers(TreeNode root) {
         if(root==null) return 0;
-        ArrayList<Integer> arr=new ArrayList<>();
-        helper(root,0,arr);
-        int cur=0;
-        for(int i=0;i<arr.size();i++){
-            cur+=arr.get(i);
+        List<Integer> ans=new ArrayList<>();
+        solve(root,ans,0);
+        int ansvar=0;
+        for(int curr:ans){
+            ansvar+=curr;
         }
-        return cur;
-        
+        return ansvar;
     }
 }
