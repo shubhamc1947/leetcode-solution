@@ -1,35 +1,35 @@
 class Node{
-    int data;
+    int val;
     int diff;
-    public Node(int data, int diff){
-        this.data=data;
+    public Node(int val,int diff){
+        this.val=val;
         this.diff=diff;
     }
 }
 class Solution {
-
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        //max heap
-        PriorityQueue<Node> pq=new PriorityQueue<Node>(
-            (a, b) -> {
-                if (a.diff != b.diff)
-                    return b.diff - a.diff;   // larger diff = higher priority (max-heap)
-                return b.data - a.data;        // larger element = higher priority
+        PriorityQueue<Node> pq=new PriorityQueue<>(
+            (a,b)-> {
+                if(a.diff!=b.diff){
+                return b.diff-a.diff;
+            }else{
+                return b.val-a.val;
             }
-
-        );
-
+            }
+        )  ;
         int n=arr.length;
-        for(int i=0;i<n;i++){
-            pq.offer(new Node(arr[i],Math.abs(arr[i]-x)));
-            if(pq.size()>k) pq.poll();
+        for(int i=0;i<n;i++) {
+            pq.add(new Node(arr[i],Math.abs(x-arr[i])));
+            if(pq.size()>k){
+                pq.remove();
+            }
         }
-        
         List<Integer> ans=new ArrayList<>();
         while(!pq.isEmpty()){
-            ans.add(pq.poll().data);
+            ans.add(pq.remove().val);
         }
-    Collections.sort(ans);        
-    return ans;
+        Collections.sort(ans);
+        return ans;
+        
     }
 }
