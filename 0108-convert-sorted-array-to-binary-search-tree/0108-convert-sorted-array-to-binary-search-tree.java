@@ -14,19 +14,18 @@
  * }
  */
 class Solution {
-        public TreeNode sortedArrayToBST(int[] nums) {
-        return CreateBST(nums, 0, nums.length - 1);
-    }
-
-    private TreeNode CreateBST(int nums[], int l, int r) {
-        if (l > r) { 
+    public TreeNode buildBST(int si,int ei,int nums[]){
+        if(si<=ei){
+            int mid=(si+ei)/2;
+            TreeNode root=new TreeNode(nums[mid]);
+            root.left=buildBST(si,mid-1,nums);
+            root.right=buildBST(mid+1,ei,nums);
+            return root;
+        }else{
             return null;
         }
-      
-        int mid = l + (r - l) / 2; 
-        TreeNode root = new TreeNode(nums[mid]); 
-        root.left = CreateBST(nums, l, mid - 1); 
-        root.right = CreateBST(nums, mid + 1, r); 
-        return root;
+    }
+    public TreeNode sortedArrayToBST(int[] nums) {
+        return buildBST(0,nums.length-1,nums);
     }
 }
