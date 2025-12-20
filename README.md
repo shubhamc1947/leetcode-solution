@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/shubhamc1947/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shubhamc1947/leetcode-solution/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/shubhamc1947/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/shubhamc1947/leetcode-solution/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shubhamc1947/leetcode-solution/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/shubhamc1947/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
