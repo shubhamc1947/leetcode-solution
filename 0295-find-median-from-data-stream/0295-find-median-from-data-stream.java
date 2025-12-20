@@ -1,41 +1,36 @@
 class MedianFinder {
-     PriorityQueue<Integer> left;
-     PriorityQueue<Integer> right;
+    PriorityQueue<Integer> maxi;
+    PriorityQueue<Integer> mini;
 
-    /** initialize your data structure here. */
     public MedianFinder() {
-         left = new PriorityQueue<>(Collections.reverseOrder()); //max priority Q
-         right = new PriorityQueue<>(); //min priority Q
-
+        this.maxi=new PriorityQueue<>((a,b)-> b-a);    
+        this.mini=new PriorityQueue<>();
     }
     
-    public void addNum(int val) {
-           if(right.size() > 0 && val > right.peek()){
-            right.add(val);
-          }else{
-              left.add(val);
-          }
-            //balancing elements in both priority q logic
-        
-          if(right.size() - left.size() == 2){  //right has more elements
-              left.add(right.remove());
-          }else if(left.size() - right.size() == 2){
-              right.add(left.remove());
-          }
-
+    public void addNum(int num) {
+        if(maxi.isEmpty() || num <= maxi.peek()){
+            maxi.add(num);
+        }else{
+            mini.add(num);
+        }
+        if(maxi.size()>mini.size()+1){
+            mini.add(maxi.remove());
+        }
+        if(mini.size()>maxi.size()+1){
+            maxi.add(mini.remove());
+        }
     }
     
     public double findMedian() {
-        if(left.size() == right.size()){
-              return ((double)left.peek() + (double)right.peek()) / 2;
-          }else if(left.size() > right.size()){
-            return (double)left.peek();
-        }else{                                //right.size() > left.size();
-              return (double)right.peek();
-          }
+        if(maxi.size()==mini.size()){
+            return (double)(maxi.peek()+mini.peek())/2;
+        }else if(maxi.size()>mini.size()){
+            return maxi.peek();
+        }else{
+            return mini.peek();
+        }
     }
 }
-
 
 /**
  * Your MedianFinder object will be instantiated and called as such:
