@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/shubhamc1947/leetcode-solution/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shubhamc1947/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/shubhamc1947/leetcode-solution/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/shubhamc1947/leetcode-solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shubhamc1947/leetcode-solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
