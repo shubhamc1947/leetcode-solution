@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/shubhamc1947/leetcode-solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1631,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shubhamc1947/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhamc1947/leetcode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shubhamc1947/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1704,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shubhamc1947/leetcode-solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shubhamc1947/leetcode-solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shubhamc1947/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
