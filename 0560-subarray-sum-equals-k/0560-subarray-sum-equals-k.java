@@ -2,6 +2,7 @@ class Solution {
     public int subarraySum(int[] arr, int k) {
         int n=arr.length;
         HashMap<Integer, Integer> hm=new HashMap<>();
+        // storing sum, freq 
         hm.put(0,1);
         int ans=0;
         int prefixSum=0;
