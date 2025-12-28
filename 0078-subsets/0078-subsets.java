@@ -1,20 +1,20 @@
 class Solution {
-    public static void func(int arr[],int idx,int n,List<Integer> curr,List<List<Integer>> ans){
-        if(idx==n){
-            ans.add(new ArrayList<>(curr));
+    public void helper(int nums[],int curr,int n,List<Integer> currL,List<List<Integer>> ans){
+        if(curr>n) return;
+        if(curr==n){
+            ans.add(new ArrayList<>(currL));
             return;
         }
-        //notTake
-        func(arr,idx+1,n,curr,ans);
-        // take
-        curr.add(arr[idx]);
-        func(arr,idx+1,n,curr,ans);
-        curr.remove(curr.size()-1);
+
+        helper(nums,curr+1,n,currL,ans);
+        
+        currL.add(nums[curr]);
+        helper(nums,curr+1,n,currL,ans);
+        currL.remove(currL.size()-1);
     }
-    public List<List<Integer>> subsets(int[] arr) {
-        int idx=0;
+    public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
-        func(arr,0,arr.length,new ArrayList<>(),ans);
+        helper(nums,0,nums.length,new ArrayList<>(),ans);
         return ans;
     }
 }
