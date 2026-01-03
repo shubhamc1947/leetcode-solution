@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/shubhamc1947/leetcode-solution/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1559-cherry-pickup-ii) |
