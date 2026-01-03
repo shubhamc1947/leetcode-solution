@@ -6,43 +6,23 @@ class Solution {
 		}
 		return curr;
 	}
-	public  boolean isSafe(char board[][],int row,int col,int n){
-		int drow=row;
-		int dcol=col-1;
-		
-		// left check
-		while(dcol>=0){
-			if(board[drow][dcol]=='Q') return false;
-			dcol--;
-		}
-		//top left
-		drow=row-1;
-		dcol=col-1;
-		while(drow>=0 && dcol>=0){
-			if(board[drow][dcol]=='Q') return false;
-			drow--;
-			dcol--;
-		}
-		drow=row+1;
-		dcol=col-1;
-		while(dcol>=0 && drow<n){
-			if(board[drow][dcol]=='Q') return false;
-			dcol--;
-			drow++;
-		}
-		
-		return true;
-	}
-	public  void solveNQueensHelper(int col,int n,char board[][],List<List<String>> ans){
+	public void solveNQueensHelper(int col,int n,char board[][],List<List<String>> ans,boolean rowHash[],boolean lowerDiaHash[],boolean upperDiaHash[]){
 		if(col==n){
 			ans.add(construct(board,n));
 		}
 		
 		for(int row=0;row<n;row++){
-			if(isSafe(board,row,col,n)){
+			if(rowHash[row]==false && lowerDiaHash[row+col]==false && upperDiaHash[(n-1)+(col-row)]==false){
 				board[row][col]='Q';
-				solveNQueensHelper(col+1,n,board,ans);
+				rowHash[row]=true;
+				lowerDiaHash[row+col]=true;
+				upperDiaHash[(n-1)+(col-row)]=true;
+				
+				solveNQueensHelper(col+1,n,board,ans,rowHash,lowerDiaHash,upperDiaHash);
 				board[row][col]='.';
+				rowHash[row]=false;
+				lowerDiaHash[row+col]=false;
+				upperDiaHash[(n-1)+(col-row)]=false;
 			}
 		}
 		
@@ -53,7 +33,11 @@ class Solution {
 		for(int i=0;i<n;i++){
 			Arrays.fill(board[i],'.');
 		}
-		solveNQueensHelper(0,n,board,ans);
+		boolean rowHash[]=new boolean[n];
+		boolean lowerDiaHash[]=new boolean[2*n-1];
+		boolean upperDiaHash[]=new boolean[2*n-1];
+		
+		solveNQueensHelper(0,n,board,ans,rowHash,lowerDiaHash,upperDiaHash);
 		return ans;
     }
 }
