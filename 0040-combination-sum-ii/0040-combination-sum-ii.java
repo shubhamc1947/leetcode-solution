@@ -1,28 +1,27 @@
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        List<List<Integer>> res=new ArrayList<>();
-        findcomb(candidates,target,res,0,new ArrayList<>());
-        return res;
+    public void helper(int arr[],int tar,int idx,int n,int currSum,ArrayList<Integer> curr,List<List<Integer>> res){
+        if(currSum==tar){
+            res.add(new ArrayList<>(curr));
+            return;
+        }
+
+        if(currSum>tar || idx==n) return;
+        
+        for(int i=idx;i<n;i++){
+            if(i>idx && arr[i]==arr[i-1]) continue;
+            curr.add(arr[i]);
+            currSum+=arr[i];
+            helper(arr,tar,i+1,n,currSum,curr,res);
+            curr.remove(curr.size()-1);
+            currSum-=arr[i];
+        }
     }
-    private void findcomb(int[] arr,int target,List<List<Integer>>res,int start,List<Integer>comb){
-        if(target<0){
-            return;
-        }
-        if(target==0){
-            res.add(new ArrayList<>(comb));
-            return;
-        }
-        for(int i=start;i<arr.length;i++){
-            if(i>start && arr[i]==arr[i-1]){
-                continue;
-            }
-            if(arr[i]>target){
-                break;
-            }
-            comb.add(arr[i]);
-            findcomb(arr,target-arr[i],res,i+1,comb);
-            comb.remove(comb.size()-1);
-        }
+    public List<List<Integer>> combinationSum2(int[] arr, int tar) {
+        List<List<Integer>> res=new ArrayList<>();
+        Arrays.sort(arr);
+
+        helper(arr,tar,0,arr.length,0,new ArrayList<>(),res);
+        return res;
+
     }
 }
