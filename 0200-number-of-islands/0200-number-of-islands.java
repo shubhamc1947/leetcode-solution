@@ -1,38 +1,30 @@
 class Solution {
-    public void dfs(char arr[][],int i,int j,int vis[][],int xCor[],int yCor[],int n,int m){
+    public void dfs(int i,int j,int n,int m, char arr[][],int vis[][],int xcor[],int ycor[]){
         vis[i][j]=1;
+        for(int x=0;x<4;x++){
+            int ni=i+xcor[x];
+            int nj=j+ycor[x];
 
-        for(int a=0;a<4;a++){
-            int newX=i+xCor[a];
-            int newY=j+yCor[a];
-            if(newX>=0 && newY>=0 && newX<n && newY<m){// check if valid coordinate
-                if( arr[newX][newY]=='1' && vis[newX][newY]==0){//check if not visited and island
-                    dfs(arr,newX,newY,vis,xCor,yCor,n,m);
-                }
+            if(ni>=0 && nj>=0 && ni<n && nj<m && vis[ni][nj]==0 && arr[ni][nj]=='1'){
+                dfs(ni,nj,n,m,arr,vis,xcor,ycor);
             }
         }
     }
     public int numIslands(char[][] arr) {
-        int n=arr.length; // no of rows
-        int m=arr[0].length; // no. of columns
-
-        int vis[][]=new int[n][m];//0 === not visited , 1==visited
-
-        int xCor[]=new int[]{-1,0,0,1};
-        int yCor[]=new int[]{0,-1,1,0};
-
-        int ans=0;
-
+        int n=arr.length;
+        int m=arr[0].length;
+        int vis[][]=new int[n][m];
+        int xcor[]=new int[]{-1,0,0,1};
+        int ycor[]=new int[]{0,-1,1,0};
+        int count=0;
         for(int i=0;i<n;i++){
-            for (int j=0;j<m; j++){
-                if(arr[i][j]=='1' && vis[i][j]==0){
-                    dfs(arr,i,j,vis,xCor,yCor,n,m);
-                    ans++;
+            for(int j=0;j<m;j++){
+                if(vis[i][j]==0 && arr[i][j]=='1'){
+                    dfs(i,j,n,m,arr,vis,xcor,ycor);
+                    count++;
                 }
             }
         }
-
-        return ans;
-
+        return count;
     }
 }
