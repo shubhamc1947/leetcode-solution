@@ -7,13 +7,14 @@ class Solution {
         if(idx==n || tar<0){
             return;
         }
-        for(int i=idx;i<n;i++){
-            curr.add(arr[i]);
-            tar=tar-arr[i];
-            helper(arr,i,n,tar,curr,res);
-            tar=tar+arr[i];
-            curr.remove(curr.size()-1);
-        }
+        //take 
+        tar=tar-arr[idx];
+        curr.add(arr[idx]);
+        helper(arr,idx,n,tar,curr,res);
+        tar=tar+arr[idx];
+        curr.remove(curr.size()-1);
+
+        helper(arr,idx+1,n,tar,curr,res);
     }
     public List<List<Integer>> combinationSum(int[] arr, int tar) {
         List<List<Integer>> res= new ArrayList<>();
