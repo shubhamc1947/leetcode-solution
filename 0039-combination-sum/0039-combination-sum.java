@@ -1,25 +1,24 @@
 class Solution {
-    public void helper(int idx,int n,int currSum,int tar, int arr[],ArrayList<Integer> curr,List<List<Integer>> res){
-        if(currSum==tar){
+    public void helper(int arr[],int idx,int n,int tar,List<Integer> curr,List<List<Integer>> res){
+        if(tar==0){
             res.add(new ArrayList<>(curr));
             return;
         }
-        if(currSum>tar || idx==n) return;
-        //take
+        if(idx==n || tar<0){
+            return;
+        }
+        //take 
+        tar=tar-arr[idx];
         curr.add(arr[idx]);
-        currSum+=arr[idx];
-        helper(idx,n,currSum,tar,arr,curr,res);
-        currSum-=arr[idx];
+        helper(arr,idx,n,tar,curr,res);
+        tar=tar+arr[idx];
         curr.remove(curr.size()-1);
 
-        //not take
-        helper(idx+1,n,currSum,tar,arr,curr,res);
+        helper(arr,idx+1,n,tar,curr,res);
     }
     public List<List<Integer>> combinationSum(int[] arr, int tar) {
-        List<List<Integer>> res=new ArrayList<>();
-        int idx=0;
-        int n=arr.length;
-        helper(idx,n,0,tar,arr,new ArrayList<>(),res);
+        List<List<Integer>> res= new ArrayList<>();
+        helper(arr,0,arr.length,tar,new ArrayList<>(),res);
         return res;
     }
 }
