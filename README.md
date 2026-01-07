@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shubhamc1947/leetcode-solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/shubhamc1947/leetcode-solution/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1544-count-good-nodes-in-binary-tree) |
