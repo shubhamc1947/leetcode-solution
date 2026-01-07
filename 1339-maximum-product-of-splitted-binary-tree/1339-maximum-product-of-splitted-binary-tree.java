@@ -14,38 +14,26 @@
  * }
  */
 class Solution {
-    private static final int MOD = 1_000_000_007;
-    private long totalSum = 0;
-    private long maxProduct = 0;
-
+    int MOD=1000000007;
+    private long totSum(TreeNode root){
+        if(root==null) return 0;
+        return root.val+totSum(root.left)+totSum(root.right);
+    }
+    private long helper(TreeNode root, long ans[],long totalSum){
+        if(root==null) return 0;
+        long leftSum=helper(root.left,ans,totalSum);
+        long rightSum=helper(root.right,ans,totalSum);
+        long currSum=leftSum+rightSum+root.val;
+        ans[0]=Math.max(ans[0],currSum*(totalSum-currSum));
+        return currSum;
+    }
     public int maxProduct(TreeNode root) {
-        // First DFS: compute total sum
-        totalSum = dfsSum(root);
-
-        // Second DFS: compute max product
-        dfsMaxProduct(root);
-
-        return (int) (maxProduct % MOD);
-    }
-
-    private long dfsSum(TreeNode node) {
-        if (node == null) return 0;
-        return node.val + dfsSum(node.left) + dfsSum(node.right);
-    }
-
-    private long dfsMaxProduct(TreeNode node) {
-        if (node == null) return 0;
-
-        long leftSum = dfsMaxProduct(node.left);
-        long rightSum = dfsMaxProduct(node.right);
-
-        long subtreeSum = node.val + leftSum + rightSum;
-
-        maxProduct = Math.max(
-            maxProduct,
-            subtreeSum * (totalSum - subtreeSum)
-        );
-
-        return subtreeSum;
+        long totalSum=totSum(root);
+        System.out.println(totalSum);
+        // product subTreeSum* (totalSum-subTreeSum)
+        //FIND THE MAXIMUM
+        long ans[]=new long[1];
+        helper(root,ans,totalSum);
+        return (int)(ans[0]%MOD);
     }
 }
