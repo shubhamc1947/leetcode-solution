@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhamc1947/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhamc1947/leetcode-solution/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhamc1947/leetcode-solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
