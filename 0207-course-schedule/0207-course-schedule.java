@@ -6,7 +6,9 @@ class Solution {
         }
 
         for(int i=0;i<pre.length;i++){
-            adj.get(pre[i][0]).add(pre[i][1]);
+            int a = pre[i][0];
+            int b = pre[i][1];
+            adj.get(b).add(a);   // b -> a (CORRECT)
         }
         // System.out.println(adj);
         // return true;
