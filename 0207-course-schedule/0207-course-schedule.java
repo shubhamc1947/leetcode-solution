@@ -31,10 +31,10 @@ class Solution {
         }
 
         // ans
-        ArrayList<Integer> ans=new ArrayList<>();
+        int count=0;
         while(!que.isEmpty()){
             int node=que.remove();
-            ans.add(node);
+            count++;
             for(int i=0;i<adj.get(node).size();i++){
                 int ele=adj.get(node).get(i);
                 inOrder[ele]--;
@@ -43,7 +43,7 @@ class Solution {
                 }
             }
         }
-        return ans.size()==adj.size()?true:false;
+        return count==adj.size()?true:false;
 
     }
 }
