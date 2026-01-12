@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shubhamc1947/leetcode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/shubhamc1947/leetcode-solution/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/shubhamc1947/leetcode-solution/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/shubhamc1947/leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [1236-n-th-tribonacci-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shubhamc1947/leetcode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shubhamc1947/leetcode-solution/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1206,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/shubhamc1947/leetcode-solution/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/shubhamc1947/leetcode-solution/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/shubhamc1947/leetcode-solution/tree/master/0866-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shubhamc1947/leetcode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/shubhamc1947/leetcode-solution/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
