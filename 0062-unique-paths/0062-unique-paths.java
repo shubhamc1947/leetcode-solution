@@ -11,31 +11,28 @@ class Solution {
         return dp[i][j]= left+top;
     }
     public int uniquePaths(int n, int m) {
-        int dp[][]=new int[n][m];
-        // for(int i=0;i<n;i++){
-        //     Arrays.fill(dp[i],-1);
-        // }
-
-        // return helper(n-1,m-1,dp);
+        int dp[]=new int[m];
 
         for(int i=0;i<n;i++){
+            int temp[]=new int[m];
             for(int j=0;j<m;j++){
                 if(i==0 && j==0) {
-                    dp[0][0]=1;
+                    temp[0]=1;
                 }else{
                     int left=0;
                     int top=0;
                     if(i>0){
-                        top=dp[i-1][j];
+                        top=dp[j];
                     }
                     if(j>0){
-                        left=dp[i][j-1];
+                        left=temp[j-1];
                     }
-                    dp[i][j]=left+top;
+                    temp[j]=left+top;
                 }                
             }
+            dp=temp;
         }
         
-        return dp[n-1][m-1];
+        return dp[m-1];
     }
 }
