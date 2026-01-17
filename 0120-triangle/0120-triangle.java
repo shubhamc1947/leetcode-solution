@@ -13,8 +13,8 @@ class Solution {
         for(int j=0;j<n;j++){
             prev[j]=tri.get(n-1).get(j);
         }
-        int temp[]=new int[n];
         for(int i=n-2;i>=0;i--){
+            int temp[]=new int[n];
             for(int j=0;j<=i;j++){
                 int bottom= tri.get(i).get(j)+prev[j];
                 int dia=tri.get(i).get(j)+prev[j+1];
