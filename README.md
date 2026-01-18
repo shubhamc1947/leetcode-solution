@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shubhamc1947/leetcode-solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhamc1947/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhamc1947/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shubhamc1947/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1463-cherry-pickup-ii) |
 | [1559-cherry-pickup-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shubhamc1947/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shubhamc1947/leetcode-solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shubhamc1947/leetcode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/shubhamc1947/leetcode-solution/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/1895-largest-magic-square) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shubhamc1947/leetcode-solution/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shubhamc1947/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
