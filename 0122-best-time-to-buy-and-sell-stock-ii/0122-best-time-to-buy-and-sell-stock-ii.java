@@ -1,28 +1,24 @@
 class Solution {
-  
-    public int maxProfit(int[] arr) {
-        int n=arr.length;
-        int next[]=new int[2];
-
-        for(int idx=n-1;idx>=0;idx--){
-            int curr[]=new int[2];
-            for(int buy=0;buy<=1;buy++){
-                int notTake= next[buy];
-
-                //take
-                int take=-(int)1e8;
-                if(buy==0){
-                        take=-arr[idx]+ next[1];
-                }else{
-                        take=arr[idx]+next[0];
-                }
-                curr[buy]= Math.max(take,notTake);
-            }
-            next=curr;
+    public int helper(int []prices,int idx,int buy,int n, int dp[][]){
+        if(idx==n) return 0;
+        if(dp[idx][buy]!=-1) return dp[idx][buy];
+        if(buy==1){
+            //
+            int buyToday=-prices[idx]+helper(prices,idx+1,0,n,dp);
+            int notBuyToday=0+helper(prices,idx+1,1,n,dp);
+            return dp[idx][buy]= Math.max(buyToday,notBuyToday);
+        }else{
+            int sellToday=prices[idx]+helper(prices,idx+1,1,n,dp);
+            int notSellToday=0+helper(prices,idx+1,0,n,dp);
+            return dp[idx][buy]= Math.max(sellToday,notSellToday);
         }
-
-        // n-1=>0
-        
-        return next[0];
+    }
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+        int dp[][]=new int[n+1][2];
+        for(int i=0;i<n+1;i++){
+            Arrays.fill(dp[i],-1);
+        }
+        return helper(prices,0,1,n,dp);
     }
 }
