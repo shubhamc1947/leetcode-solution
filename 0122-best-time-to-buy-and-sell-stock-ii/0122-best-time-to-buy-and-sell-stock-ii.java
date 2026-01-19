@@ -15,30 +15,23 @@ class Solution {
     // }
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int dp[][]=new int[n+1][2];
-        // for(int i=0;i<n+1;i++){
-        //     Arrays.fill(dp[i],-1);
-        // }
-        // return helper(prices,0,1,n,dp);
-
-        //base case
-        dp[n][0]=0;
-        dp[n][1]=0;
+        int prev[]=new int[2];
 
         for(int idx=n-1;idx>=0;idx--){
+            int temp[]=new int[2];
             for(int buy=0;buy<2;buy++){
                 if(buy==1){
-
-                    int buyToday=-prices[idx]+ dp[idx+1][0];
-                    int notBuyToday=0+ dp[idx+1][1];
-                    dp[idx][buy]= Math.max(buyToday,notBuyToday);
+                    int buyToday=-prices[idx]+ prev[0];
+                    int notBuyToday=0+ prev[1];
+                    temp[buy]= Math.max(buyToday,notBuyToday);
                 }else{
-                    int sellToday=prices[idx]+dp[idx+1][1];
-                    int notSellToday=0+ dp[idx+1][0];
-                    dp[idx][buy]= Math.max(sellToday,notSellToday);
+                    int sellToday=prices[idx]+prev[1];
+                    int notSellToday=0+ prev[0];
+                    temp[buy]= Math.max(sellToday,notSellToday);
                 }
             }
+            prev=temp;
         }
-        return dp[0][1];
+        return prev[1];
     }
 }
