@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhamc1947/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1663,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/shubhamc1947/leetcode-solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
