@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/shubhamc1947/leetcode-solution/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/shubhamc1947/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1223-graph-connectivity-with-threshold](https://github.com/shubhamc1947/leetcode-solution/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1780,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/shubhamc1947/leetcode-solution/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/shubhamc1947/leetcode-solution/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/shubhamc1947/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhamc1947/leetcode-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
