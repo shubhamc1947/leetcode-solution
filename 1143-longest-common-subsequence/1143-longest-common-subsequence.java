@@ -15,9 +15,22 @@ class Solution {
         int n=str.length();
         int m=btr.length();
         int dp[][]=new int[n][m];
+        // for(int i=0;i<n;i++){
+        //     Arrays.fill(dp[i],-1);
+        // }
+        // return helper(str,btr,n-1,m-1,dp);
         for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+            for(int j=0;j<m;j++){
+                dp[i][j]=0;
+                if(str.charAt(i)==btr.charAt(j)){
+                    dp[i][j]= 1+ ((i-1>=0 && j-1>=0)? dp[i-1][j-1]:0);
+                }else{
+                    int moveFirst= (i-1>=0)? dp[i-1][j]:0;
+                    int moveSecond= (j-1>=0)? dp[i][j-1]:0;
+                    dp[i][j]= Math.max(moveFirst,moveSecond);
+                }
+            }
         }
-        return helper(str,btr,n-1,m-1,dp);
+        return dp[n-1][m-1];
     }
 }
