@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             if(arr[i]>tar){
                 ans=arr[i];
-                System.out.println(arr[i]);
                 break;
             }
         }
