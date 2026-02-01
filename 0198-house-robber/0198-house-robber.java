@@ -6,12 +6,13 @@ class Solution {
         int prev2=arr[0];
         int prev1=Math.max(arr[0],arr[1]);
         for(int idx=2;idx<n;idx++){
-            int take=prev2+arr[idx];
-            int notTake=prev1+0;
+            int take=arr[idx]+prev2;
+            int notTake=0+prev1;
             int curr=Math.max(take,notTake);
+
             prev2=prev1;
             prev1=curr;
         }
         return prev1;
-    }   
+    }
 }
