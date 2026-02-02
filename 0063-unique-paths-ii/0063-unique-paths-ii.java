@@ -4,9 +4,8 @@ class Solution {
         int n=arr.length;
         int m=arr[0].length;
         if(arr[n-1][m-1]==1) return 0;
-        
+
         int prev[]=new int[m];
-        Arrays.fill(prev,-1);
 
         for(int i=0;i<n;i++){
             int temp[]=new int[m];
@@ -25,7 +24,6 @@ class Solution {
             }
             prev=temp;
         }
-
         return prev[m-1];
     }
 }
