@@ -8,21 +8,23 @@ class Solution {
         return dp[i][j]= top+left;
     }
     public int uniquePaths(int n, int m) {
-        int dp[][]=new int[n][m];
+        int prev[]=new int[m];
    
         for(int i=0;i<n;i++){
+            int temp[]=new int[m];
             for(int j=0;j<m;j++){
                 if(i==0 && j==0){
-                    dp[i][j]=1;
+                    temp[j]=1;
                 }else{
                     int top=0;
                     int left=0;
-                    if(i-1>=0) top=dp[i-1][j];
-                    if(j-1>=0) left=dp[i][j-1];
-                    dp[i][j]=top+left;
+                    if(i-1>=0) top=prev[j];
+                    if(j-1>=0) left=temp[j-1];
+                    temp[j]=top+left;
                 }
             }
+            prev=temp;
         }
-        return dp[n-1][m-1];
+        return prev[m-1];
     }
 }
