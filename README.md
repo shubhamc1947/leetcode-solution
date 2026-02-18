@@ -1683,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shubhamc1947/leetcode-solution/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shubhamc1947/leetcode-solution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
