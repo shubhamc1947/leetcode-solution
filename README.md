@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shubhamc1947/leetcode-solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/shubhamc1947/leetcode-solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shubhamc1947/leetcode-solution/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shubhamc1947/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0761-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/0772-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhamc1947/leetcode-solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1804,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shubhamc1947/leetcode-solution/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shubhamc1947/leetcode-solution/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-largest-perimeter-triangle) |
