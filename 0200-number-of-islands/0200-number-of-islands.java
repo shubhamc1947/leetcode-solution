@@ -1,26 +1,29 @@
 class Solution {
-    public void dfs(int i,int j,int n,int m, char arr[][],int vis[][],int xcor[],int ycor[]){
+    public void dfs(char [][]grid,int vis[][],int i,int j,int xCor[],int yCor[],int n,int m){
         vis[i][j]=1;
         for(int x=0;x<4;x++){
-            int ni=i+xcor[x];
-            int nj=j+ycor[x];
-
-            if(ni>=0 && nj>=0 && ni<n && nj<m && vis[ni][nj]==0 && arr[ni][nj]=='1'){
-                dfs(ni,nj,n,m,arr,vis,xcor,ycor);
+            int newX=i+xCor[x];
+            int newY=j+yCor[x];
+            if(newX>=0 && newX< n && newY>=0 && newY<m ){
+                if(grid[newX][newY]=='1' && vis[newX][newY]==0){
+                    dfs(grid,vis,newX,newY,xCor,yCor,n,m);
+                }
             }
         }
+        
     }
-    public int numIslands(char[][] arr) {
-        int n=arr.length;
-        int m=arr[0].length;
+    public int numIslands(char[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
+
         int vis[][]=new int[n][m];
-        int xcor[]=new int[]{-1,0,0,1};
-        int ycor[]=new int[]{0,-1,1,0};
         int count=0;
+        int xCor[]=new int[]{-1,0,0,1};
+        int yCor[]=new int[]{0,-1,1,0};
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(vis[i][j]==0 && arr[i][j]=='1'){
-                    dfs(i,j,n,m,arr,vis,xcor,ycor);
+                if(grid[i][j]=='1' && vis[i][j]==0){
+                    dfs(grid,vis,i,j,xCor,yCor,n,m);
                     count++;
                 }
             }
