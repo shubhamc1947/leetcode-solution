@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shubhamc1947/leetcode-solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shubhamc1947/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhamc1947/leetcode-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/shubhamc1947/leetcode-solution/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
@@ -1704,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shubhamc1947/leetcode-solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/shubhamc1947/leetcode-solution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shubhamc1947/leetcode-solution/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
@@ -1829,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/shubhamc1947/leetcode-solution/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shubhamc1947/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhamc1947/leetcode-solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1397-search-suggestions-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shubhamc1947/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shubhamc1947/leetcode-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1892,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/shubhamc1947/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/shubhamc1947/leetcode-solution/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhamc1947/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shubhamc1947/leetcode-solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
