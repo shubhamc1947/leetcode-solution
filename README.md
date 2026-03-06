@@ -928,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shubhamc1947/leetcode-solution/tree/master/1777-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shubhamc1947/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shubhamc1947/leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
