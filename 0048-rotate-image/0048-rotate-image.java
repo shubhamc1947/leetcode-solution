@@ -1,6 +1,5 @@
 class Solution {
-    public void trans(int arr[][]){
-        int n=arr.length;
+    public void transpose(int [][] arr,int n){
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
                 int temp=arr[i][j];
@@ -9,16 +8,17 @@ class Solution {
             }
         }
     }
+    public void rotate(int[][] matrix) {
+        int n=matrix.length;
+        transpose(matrix,n);
 
-    public void rotate(int[][] arr) {
-        int n=arr.length;
-        trans(arr);
         for(int i=0;i<n;i++){
-            int si=0,ei=n-1;
-            while(si<=ei){
-                int temp=arr[i][si];
-                arr[i][si]=arr[i][ei];
-                arr[i][ei]=temp;
+            int si=0;
+            int ei=n-1;
+            while(si<ei){
+                int temp=matrix[i][si];
+                matrix[i][si]=matrix[i][ei];
+                matrix[i][ei]=temp;
                 si++;
                 ei--;
             }
