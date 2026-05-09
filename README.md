@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhamc1947/leetcode-solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhamc1947/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shubhamc1947/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/shubhamc1947/leetcode-solution/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shubhamc1947/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1378,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/shubhamc1947/leetcode-solution/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shubhamc1947/leetcode-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
