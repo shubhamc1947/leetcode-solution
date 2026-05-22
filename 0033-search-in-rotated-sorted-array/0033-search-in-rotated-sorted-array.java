@@ -1,31 +1,40 @@
 class Solution {
-    public int search(int[] arr, int tar) {
-        int si=0,ei=arr.length-1;
-        while(si<=ei){
-            int mid=si+(ei-si)/2;
-            if(arr[mid]==tar){
+    public int search(int[] nums, int target) {
+        int low = 0;
+        int high = nums.length - 1;
+
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if(nums[mid] == target) {
                 return mid;
-            }else if(arr[mid]>=arr[si] && arr[mid]>arr[ei]){
-                //Line 1 Exist mid
-                if(arr[si]<=tar && tar <=arr[mid]){
-                    //Line 1 Left side exist 
-                    ei=mid-1;
-                }else{
-                    //rigth side either on Line 1 or Line2
-                    si=mid+1;
+            }
+
+            // left half is sorted
+            if(nums[low] <= nums[mid]) {
+
+                if(nums[low] <= target &&
+                   target < nums[mid]) {
+                    high = mid - 1;
                 }
-            }else{
-                //Line 2 Exist mid
-                if(arr[mid]<=tar && tar<=arr[ei]){
-                    //right side of Line 2 
-                    si=mid+1;
-                    
-                }else{
-                    //left side either on Line1 or Line2
-                    ei=mid-1;
+                else {
+                    low = mid + 1;
+                }
+            }
+
+            // right half is sorted
+            else {
+
+                if(nums[mid] < target &&
+                   target <= nums[high]) {
+                    low = mid + 1;
+                }
+                else {
+                    high = mid - 1;
                 }
             }
         }
+
         return -1;
     }
 }
