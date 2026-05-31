@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shubhamc1947/leetcode-solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/shubhamc1947/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shubhamc1947/leetcode-solution/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1854,6 +1855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/shubhamc1947/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/shubhamc1947/leetcode-solution/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/shubhamc1947/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shubhamc1947/leetcode-solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1936,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/shubhamc1947/leetcode-solution/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/shubhamc1947/leetcode-solution/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/shubhamc1947/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shubhamc1947/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
