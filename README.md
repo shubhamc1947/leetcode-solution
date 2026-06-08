@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamc1947/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shubhamc1947/leetcode-solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shubhamc1947/leetcode-solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhamc1947/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1416,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shubhamc1947/leetcode-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shubhamc1947/leetcode-solution/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/shubhamc1947/leetcode-solution/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -2075,6 +2077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/shubhamc1947/leetcode-solution/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shubhamc1947/leetcode-solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/shubhamc1947/leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamc1947/leetcode-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhamc1947/leetcode-solution/tree/master/2265-partition-array-according-to-given-pivot) |
