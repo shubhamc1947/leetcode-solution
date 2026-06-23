@@ -1203,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhamc1947/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shubhamc1947/leetcode-solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shubhamc1947/leetcode-solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1631,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shubhamc1947/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shubhamc1947/leetcode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shubhamc1947/leetcode-solution/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
