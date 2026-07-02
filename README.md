@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shubhamc1947/leetcode-solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2793-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamc1947/leetcode-solution/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shubhamc1947/leetcode-solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/shubhamc1947/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/shubhamc1947/leetcode-solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/shubhamc1947/leetcode-solution/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/shubhamc1947/leetcode-solution/tree/master/2803-modify-graph-edge-weights) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1534,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2803-modify-graph-edge-weights](https://github.com/shubhamc1947/leetcode-solution/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhamc1947/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2388,6 +2393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhamc1947/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
