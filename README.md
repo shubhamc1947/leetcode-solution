@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3623-count-number-of-trapezoids-i) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamc1947/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shubhamc1947/leetcode-solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhamc1947/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhamc1947/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shubhamc1947/leetcode-solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shubhamc1947/leetcode-solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1522,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
@@ -1539,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhamc1947/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2394,6 +2400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shubhamc1947/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shubhamc1947/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
