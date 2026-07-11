@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shubhamc1947/leetcode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamc1947/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shubhamc1947/leetcode-solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamc1947/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shubhamc1947/leetcode-solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shubhamc1947/leetcode-solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -2414,6 +2416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamc1947/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamc1947/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2427,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubhamc1947/leetcode-solution/tree/master/0200-number-of-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shubhamc1947/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamc1947/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/shubhamc1947/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhamc1947/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/3666-minimum-operations-to-equalize-binary-string) |
