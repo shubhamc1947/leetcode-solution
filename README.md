@@ -1052,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/shubhamc1947/leetcode-solution/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shubhamc1947/leetcode-solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/shubhamc1947/leetcode-solution/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -2365,6 +2366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shubhamc1947/leetcode-solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shubhamc1947/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/shubhamc1947/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shubhamc1947/leetcode-solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
